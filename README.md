@@ -21,6 +21,19 @@ We provide distinct sections tailored to the developmental stages of players:
 
 ---
 
+# Coaching Reference Frameworks
+
+To ground our curriculum in proven methodologies, we look to several leading international coaching frameworks:
+
+| Dimension | IGCC Philosophy | Spanish RFEF Framework | English FA Framework |
+| :--- | :--- | :--- | :--- |
+| **Primary Core Focus** | Modern dynamic trends, practical field sessions, constraint-based variability. | Tactical intelligence, positional play (*Juego de Posición*), ball playing under pressure. | Holistically integrated "4-Corner Model" (Technical, Physical, Psychological, Social). |
+| **Methodology Style** | **Eclectic / Hybrid:** Combines international philosophies across MLS, Premier League, Bundesliga, and La Liga. | **Structured Guided Discovery:** Non-linear pedagogy using constrained game setups (*Entrenar desde el juego*). | **Structured Progression:** Dynamic game-realistic repetitions linked directly to outfield phase play. |
+| **Goalkeeper Role in Build-Up** | Pragmatic solution-focused (passing under press vs. long distribution based on situation). | The **"Eleventh Outfield Player"** — central to breaking pressure and maintaining positional superiority. | Sweeper-keeper integrating into backline building phases with technical variety. |
+| **Shot-Stopping Philosophy** | Reaction-based, dynamic stance, handling deflections and quick second-shot recoveries. | Angle management, spatial awareness, and reading body shape early to minimize movement. | High technical repetition in fundamental movement, diving mechanics, and aerial protection. |
+
+---
+
 # Age Group Module Structure
 
 Each age group section contains the following standardized subsections:
