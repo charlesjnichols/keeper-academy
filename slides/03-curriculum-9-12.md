@@ -54,6 +54,4 @@ Too often, the immense emotional pressure of being the last line of defense goes
 
 As goalkeepers step into this developmental window, coaches also need to keep a watchful eye on both the player *and* the parent. Let’s face it: the number one unwritten role of a goalie parent is acting as an **armchair therapist**.
 
-While outfield parents worry about general playing time or goals scored, goalkeeper parents deal with a uniquely isolated position. Conceding a late goal or making a costly error sits squarely on one pair of shoulders, and kids carry that heavy weight right into the car ride home.
-
-Coaches must guide parents to understand that their job after the whistle isn't lectures and tactical breakdowns, it's providing unconditional emotional safety. By coaching the parents alongside the players, we help families celebrate the highs, process the lows, and keep the game fun.
+While outfield parents worry about general playing time or goals scored, goalkeeper parents deal with a uniquely isolated position. Conceding a late goal or making a costly error sits squarely on one pair of shoulders, and kids carry that heavy weight right into the car ride home.  Coaches must guide parents to understand that their job after the whistle isn't lectures and tactical breakdowns, it's providing unconditional emotional safety. By coaching the parents alongside the players, we help families celebrate the highs, process the lows, and keep the game fun.
