@@ -1,0 +1,13 @@
+{
+  "name": "keeper-academy-slides",
+  "private": true,
+  "scripts": {
+    "dev": "slidev --port 3030",
+    "build": "slidev build",
+    "preview": "slidev preview --port 3030"
+  },
+  "dependencies": {
+    "@slidev/cli": "latest",
+    "@slidev/theme-seriph": "latest"
+  }
+}
