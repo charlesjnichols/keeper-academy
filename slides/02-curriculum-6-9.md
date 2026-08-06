@@ -1,4 +1,11 @@
 ---
+layout: section
+---
+
+# Ages 6–9
+## Developmental Reality
+
+---
 layout: course-page
 title: Ages 6–9 | Developmental Reality
 ---
@@ -74,8 +81,6 @@ stateDiagram-v2
 
 ::right::
 
-<div align="center">
-
 ```mermaid {theme: 'seriph', scale: 0.7}
 stateDiagram-v2
     direction TB
@@ -91,5 +96,3 @@ stateDiagram-v2
     }
 
 ```
-
-</div>

@@ -18,21 +18,29 @@ const slots = useSlots()
     <!-- Main Content Area -->
     <main class="flex-1 p-8 overflow-y-auto">
       
-      <!-- Rendered if NO ::left:: or ::right:: slots are present (Single Column) -->
-      <template v-if="!slots.left && !slots.right">
+      <!-- 1 COLUMN: Rendered if NO named slots are present -->
+      <template v-if="!slots.left && !slots.right && !slots.center">
         <slot />
       </template>
 
-      <!-- Rendered AUTOMATICALLY if ::left:: or ::right:: are used (Two Columns) -->
+      <!-- MULTI-COLUMN: Rendered if ANY named slots are used -->
       <template v-else>
-        <!-- Optional Top Header Slot (Content before ::left::) -->
-        <div v-if="slots.default" class="mb-4">
+        <!-- Optional Top Header Slot (Content before columns) -->
+        <div v-if="slots.default" class="mb-6">
           <slot />
         </div>
 
-        <div class="grid grid-cols-2 gap-6">
+        <!-- 3 COLUMNS: Triggered if left, center, AND right are all used -->
+        <div v-if="slots.left && slots.center && slots.right" class="grid grid-cols-3 gap-6">
           <div><slot name="left" /></div>
-          <div><slot name="right" /></div>
+          <div><slot name="center" /></div>
+          <div align="center"><slot name="right" /></div>
+        </div>
+
+        <!-- 2 COLUMNS: Fallback if only left/right are used -->
+        <div v-else class="grid grid-cols-2 gap-6">
+          <div><slot name="left" /></div>
+          <div align="center"><slot name="right" /></div>
         </div>
       </template>
 
