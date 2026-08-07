@@ -20,15 +20,15 @@ Select a module below to begin.
     Foundation, multi-sport agility, ball familiarity, and avoiding early specialization.
   </ModuleCard>
 
-  <ModuleCard icon="⚙️" title="Module 2: Ages 9–12" target="13">
+  <ModuleCard icon="⚙️" title="Module 2: Ages 9–12" target="15">
     Technical fundamentals, establishing the set position, and basic angle play.
   </ModuleCard>
 
-  <ModuleCard icon="🧠" title="Module 3: Ages 12–14" target="21">
+  <ModuleCard icon="🧠" title="Module 3: Ages 12–14" target="26">
     Advanced mechanics, game reading, distribution, and tactical communication.
   </ModuleCard>
 
-  <ModuleCard icon="📚" title="Reference Library" target="32">
+  <ModuleCard icon="📚" title="Reference Library" target="34">
     Cross-age expectations matrix and core technical mechanics reference guide.
   </ModuleCard>
 

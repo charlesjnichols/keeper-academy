@@ -35,11 +35,23 @@ src: ./slides/02-curriculum-6-9.md
 ---
 
 ---
+src: ./slides/07-contact.md
+---
+
+---
 src: ./slides/03-curriculum-9-12.md
 ---
 
 ---
+src: ./slides/07-contact.md
+---
+
+---
 src: ./slides/04-curriculum-12-14.md
+---
+
+---
+src: ./slides/07-contact.md
 ---
 
 ---
@@ -48,4 +60,8 @@ src: ./slides/05-expectations-matrix.md
 
 ---
 src: ./slides/06-basics-reference-library.md
+---
+
+---
+src: ./slides/07-contact.md
 ---

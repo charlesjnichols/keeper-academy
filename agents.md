@@ -20,6 +20,7 @@ This is NOT a general markdown-rendering project. Review and author slides again
 - **Slides entrypoint:** `slides.md` defines frontmatter + imports 6 slide decks via `src:`:
   - `slides/01-overview.md` — course dashboard (`layout: top-title`, `zoom: 0.85`)
   - `slides/02-curriculum-6-9.md`, `03-curriculum-9-12.md`, `04-curriculum-12-14.md`
+  - `slides/07-contact.md` — reusable end-of-module contact/navigation slide (imported after each curriculum deck)
   - `slides/05-expectations-matrix.md`, `06-basics-reference-library.md`
 - **Global navigation:** custom footer `slide-bottom.vue` renders page counter + prev/home/next controls on every slide (line 8 of `slides.md` sets `slide_info: false, presenter: false`).
 - **Custom layout:** `layouts/top-title.vue` (fork of neversink's `top-title`) — fixed header + scrollable body via `::title::` and `::default::`/`::content::` slots.

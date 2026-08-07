@@ -42,8 +42,8 @@ At ages 6 to 9, the primary objective is ensuring players fall in love with movi
 </div>
 
 ---
-title: Ages 6–9 | The Young Keeper's Mind
 layout: top-title-two-cols
+title: Ages 6–9 | The Young Keeper's Mind
 ---
 
 ::title::
@@ -52,7 +52,7 @@ layout: top-title-two-cols
 
 ::default::
 
-At ages 6 to 9, the primary objective is ensuring players fall in love with moving their bodies and kicking a ball, not winning Saturday morning scorelines. This is the foundation every future goalkeeper is built on.
+Before any skill, a young keeper's mind needs to see goalkeeping as fun, not a test. A safe, playful environment lets confidence and courage grow from within.
 
 ::left::
 
@@ -68,10 +68,6 @@ At ages 6 to 9, the primary objective is ensuring players fall in love with movi
 
 <TakeawayBox title="Mistakes Are Experiments" type="info">
   <b>Reframe the Miss:</b> Drop the ball? Miss the catch? At this age a "mistake" is data, not a verdict. Normalizing failure teaches resilience and keeps a developing ego out of the way of learning.
-</TakeawayBox>
-
-<TakeawayBox title="Attention Without Pressure" type="success">
-  <b>Focus That Feels Like Play:</b> Concentration at 6–9 runs in short, intense bursts. Frame tasks as challenges and games rather than drills, and kids focus because they want to, not because they have to.
 </TakeawayBox>
 
 ::right::
@@ -336,7 +332,7 @@ The rule is simple: rotate the keeper's turn so everybody gets touches and nobod
 
 ::left::
 
-#### Practice Environment
+### Practice Environment
 
 <TakeawayBox title="Rotate All Players" type="success">
   <b>Everybody Gets a Turn:</b> Sweep keepers through the role in short, fun stations so goalkeeping stays one part of the game, not an identity.
@@ -351,7 +347,7 @@ flowchart TD
 
 ::right::
 
-#### Match
+### Match
 
 <TakeawayBox title="Never On Forced To" type="info">
   <b>Voluntary & Shared:</b> Goalkeeping in matches is up for grabs week to week, shared responsibility no child is ever pushed into.
