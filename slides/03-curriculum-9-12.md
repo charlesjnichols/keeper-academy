@@ -2,7 +2,7 @@
 layout: section
 ---
 
-# Ages 12–14
+# Ages 9–12
 ## Developmental Sweet Spot
 
 ---
@@ -22,12 +22,6 @@ At ages 9 to 12, players enter a critical window of rapid athletic, cognitive, a
   <b>Coordinating Growth & Safety:</b> Players manage rapid growth spurts. Focus on refining footwork agility and teaching mechanics to safely absorb ground impacts and master diving without fear or injury.
 </TakeawayBox>
 
-```mermaid {theme: 'seriph', scale: 0.6}
-flowchart TD
-    A[Physical Growth] --> A1[Footwork]
-    A --> A2[Diving Mechanics]
-```
-
 ::center::
 
 ### Cognitive Expansion
@@ -36,12 +30,6 @@ flowchart TD
   <b>Reading the Game:</b> Players shift from pure ball-watching to grasping the bigger picture—understanding angle positioning, supporting the defensive line, and scanning the field before receiving.
 </TakeawayBox>
 
-```mermaid {theme: 'seriph', scale: 0.6}
-flowchart TD
-    B[Cognitive Ability] --> B1[Angle Play]
-    B --> B2[Field Scanning]
-```
-
 ::right::
 
 ### Psychological Growth
@@ -49,12 +37,6 @@ flowchart TD
 <TakeawayBox title="Leadership Roots" type="info">
   <b>Building Resilience:</b> Personal accountability and early leadership habits begin to take root. Setbacks must be framed as learning milestones rather than defining judgments.
 </TakeawayBox>
-
-```mermaid {theme: 'seriph', scale: 0.6}
-flowchart TD
-    C[Psychological Growth] --> C1[Accountability]
-    C --> C2[Team Leadership]
-```
 
 ---
 layout: course-page
@@ -81,12 +63,11 @@ Coaching at this stage aligns with guidelines set by the **International Goalkee
 
 ::right::
 
-### The Dynamic Reaction Loop
+### The Dynamic Vision
 
 ```mermaid {theme: 'seriph', scale: 0.7}
 stateDiagram-v2
     direction TB
-
     state "Dynamic Stance" as DynamicStance
     state "Read Shot" as ReadShot
     state "Handle Deflection" as HandleDeflection
@@ -101,103 +82,197 @@ stateDiagram-v2
 
 ---
 layout: course-page
-title: Ages 9–12 | Build-Up Integration
+title: Ages 9–12 | Technical: Hand Shape & Catching
 ---
 
-# Integrating the Goalkeeper: More Than Just a Target
+# Technical Building Blocks: Hand Shape & Catching
 
-Too often in team training, goalkeepers are treated as static shooting targets. In alignment with **IGCC's pragmatic build-up approach**, we integrate goalkeepers as active playmakers.
+Before a keeper can react to match pace, they must own a correct, repeatable catching shape. This is the bridge between the baseline catches of the 6–9 ages and the reaction saves of the 9–12 window.
 
 ::left::
 
-<TakeawayBox title="Eliminate Dead-Ball Restarts" type="important">
-  Drills traditionally starting from a dead ball should instead be initiated via a <b>sling throw or defensive rollout</b> from the goalkeeper, creating immediate realistic movement.
+<TakeawayBox title="Contour Catch (W-Catch)" type="info">
+  <b>Make the W:</b> Thumbs and index fingers nearly touch, fingers spread wide behind the ball at chest-to-head height. Cue <i>"make the W."</i> This becomes the default catch shape.
 </TakeawayBox>
 
-<TakeawayBox title="Decision-Making Under Pressure" type="success">
-  Through constraint-based setups, the goalkeeper learns to assess when to play short to break a press versus when to execute a longer, safe distribution.
+<TakeawayBox title="High & Side Contour" type="success">
+  <b>Extend the Shape:</b> High contour catches balls above head height; side contour catches balls driven wide of the body. In both, hands stay ahead of the torso and fold into a chest lock.
 </TakeawayBox>
 
-<TakeawayBox title="Outfield Synergy" type="info">
-  Outfield players simultaneously learn to offer supporting passing angles and adjust on the fly to sudden possession changes during build-up.
+<TakeawayBox title="Collapse Dives" type="important">
+  <b>First Ground Dives:</b> Coach controlled collapse dives to reach low shots, landing on the outer thigh, hip, and torso—never the elbows or knees.
 </TakeawayBox>
 
 ::right::
 
-### Build-Up Distribution Flow
+### Catch Progression
 
 ```mermaid {theme: 'seriph', scale: 0.65}
 flowchart TD
-    A[Possession Regained] --> B[Initiate via Sling Throw / Rollout]
-    B --> C{Assess Opposition Press}
-    C -->|High Press| D[Execute Longer Safe Distribution]
-    C -->|Light Press| E[Short Pass to Break Lines]
-    D --> F[Outfielders Support & Adjust]
-    E --> F
+    A[Basket & Scoop] --> B[Contour W-Catch]
+    A --> C[High Contour]
+    A --> D[Side Contour]
+    C --> E[Collapse Dive]
+    D --> E
+    B --> F[Hold To Chest Lock]
+    C --> F
+    D --> F
 ```
 
 ---
 layout: course-page
-title: Ages 9–12 | Core Focus & Shot-Stopping
+title: Ages 9–12 | 1v1, Crosses & Aerial
 ---
 
-# Core Focus & Shot-Stopping Mechanics
+# 1v1, Crosses & Aerial Claiming
 
-At the 9–12 developmental stage, training methodology is anchored in practical field scenarios that prepare goalkeepers to handle realistic match chaos.
+At this age the keeper leaves the line more often—closing down breakaways, crossing, and attacking loose through-balls. These are the moments young keepers remember most.
 
 ::left::
 
-<TakeawayBox title="Primary Core Focus" type="important">
-  Move beyond sterile, isolated drills to shape core technical mastery through dynamic, practical field sessions filled with constraint-based variability.
+<TakeawayBox title="1v1 Closing" type="important">
+  <b>Stay Big, Stay Late:</b> In a one-v-one, delay the approach and stay as big and as late as possible, making the attacker commit before closing down and spreading your frame.
 </TakeawayBox>
 
-<TakeawayBox title="Deflection Management" type="info">
-  Train goalkeepers to handle unpredictable trajectories and maintain focus when sightlines or ball paths are disrupted.
+<TakeawayBox title="Cross Claiming" type="success">
+  <b>Own the Center:</b> Attack crosses at the highest point, driving off one leg and catching with high, committed hands. Claim or punch with a loud "Keeper!" call.
 </TakeawayBox>
 
-<TakeawayBox title="Second-Shot Recovery" type="success">
-  Execute lightning-fast recoveries to reset into a set stance and secure loose balls or follow-up attempts.
+<TakeawayBox title="Sweeping Through-Balls" type="info">
+  <b>First to the Ball:</b> Read through-balls early and sprint off the line to slide-scoop or smother the loose ball before the attacker arrives.
 </TakeawayBox>
 
 ::right::
 
-### Shot-Stopping Reaction Cycle
+### Reading the Play: Assertive Goalkeeping
 
 ```mermaid {theme: 'seriph', scale: 0.65}
-flowchart TD
-    A[Dynamic Stance & Set] --> B[Read Shooter & Angle]
-    B --> C[Execute Save / Adjust to Deflection]
-    C --> D[Lightning-Fast Recovery to Feet]
-    D --> A
+stateDiagram-v2
+    direction TB
+
+    state "Read Play Early" as Read
+    state "Attacker 1v1" as OneVOne
+    state "Wide Cross" as Cross
+    state "Through Ball" as Through
+
+    Read --> OneVOne: Delay & Stay Big
+    OneVOne --> CloseShot: Close Down at the Shot
+    Read --> Cross: Track the Flight
+    Cross --> Claim: Jump & Claim at the Peak
+    Claim --> Call: Loud 'Keeper!' Call
+    Read --> Through: Sprint to Sweep
+    Through --> Smother: Slide-Scoop / Smother
+
+    state "Close Down at the Shot" as CloseShot
+    state "Jump & Claim at the Peak" as Claim
+    state "Loud 'Keeper!' Call" as Call
+    state "Slide-Scoop / Smother" as Smother
+
+    CloseShot --> Secure
+    Call --> Secure
+    Smother --> Secure
+
+    state "Secure Possession & Restart" as Secure
+    Secure --> Read
 ```
 
 ---
 layout: course-page
-title: Ages 9–12 | Premature Specialization
+title: Ages 9–12 | Distribution & Build-Up
 ---
 
-# The Danger of Premature Specialization
+# Distribution & Build-Up: First Attacker
 
-As kids approach 9v9 and look ahead to 11v11, resist the temptation to crown a single player "the goalie." No player at this age should feel trapped between the posts.
+After every save the keeper restarts play. The young keeper learns to pick the right tool—roll, throw, drive, or punt—to turn defense into attack.
 
 ::left::
 
-<TakeawayBox title="Mental & Emotional Load" type="warning">
-  The immense emotional pressure of being the last line of defense can drive sensitive, hardworking players away from soccer entirely.
+<TakeawayBox title="Underhand Roll & Sling Throw" type="info">
+  <b>Short Restart Tools:</b> Use an underhand roll for accuracy and tempo; use the sling throw to launch the ball, skipping the midfield and catching the opposition out of shape.
 </TakeawayBox>
 
-<TakeawayBox title="The 50% Max Cap Rule" type="important">
-  <b>Cap time in goal at 50% maximum.</b> Keep encouraging outfield development and rotate willing players so nobody bears the mental weight alone.
+<TakeawayBox title="Driven Pass" type="success">
+  <b>Find the Open Player:</b> A low driven distribution finds a spare attacker in stride and beats the press, at the same time you open the pitch.
+</TakeawayBox>
+
+<TakeawayBox title="Punt & Drop-Kick Clearance" type="important">
+  <b>Clear the Danger:</b> When a press leaves no short option, the punt clears the immediate danger zone and buys the team time to reset its shape.
 </TakeawayBox>
 
 ::right::
 
-### Shared Responsibility Model
+### Distribution Decision Flow
 
 ```mermaid {theme: 'seriph', scale: 0.65}
-flowchart TD
-    A[Early Full Specialization] -->|Isolated Pressure| B[Burnout & Dropout]
-    C[Shared 50% Rotation] -->|Balanced Growth| D[Long-Term Retention & Mental Resilience]
+stateDiagram-v2
+    direction TB
+
+    state "GK Secures Ball" as GK
+
+    state "Underhand Roll" as Roll
+    state "Sling Throw" as Sling
+    state "Driven Pass" as Drive
+    state "Punt / Drop Kick" as Punt
+
+    GK --> Roll: Short & recycling
+    GK --> Sling: Apply direct / switch
+    GK --> Drive: In behind / open space
+    GK --> Punt: Under heavy press
+
+    state "Attack Built & Team Resets" as Result
+
+    Roll --> Result
+    Sling --> Result
+    Drive --> Result
+    Punt --> Result
+```
+
+---
+layout: course-page
+title: Ages 9–12 | Communication & Positioning
+---
+
+# Communication, Positioning & the Back Line
+
+A great 9–12 keeper organizes their defense and holds a strong angle. Communication is the keeper's superpower at this stage.
+
+::left::
+
+<TakeawayBox title="Angle & Ball-Line Play" type="important">
+  <b>On the Angle, Stay Compact:</b> Hold the "ball line"—the line from the center of goal to the ball—stepping out to cut the angle and adjusting as the ball moves.
+</TakeawayBox>
+
+<TakeawayBox title="Leading the Defensive Line" type="success">
+  <b>Call the Shape:</b> Push and drop the back line with short calls like "up" and "drop" so the team moves as one. Set walls and mark for set pieces.
+</TakeawayBox>
+
+<TakeawayBox title="Control the Line" type="info">
+  <b>Cover the Last Line:</b> Read runs behind the defense and own the space between the box and the defensive line—sweep up through-balls before attackers can finish.
+</TakeawayBox>
+
+::right::
+
+### Positioning Loop
+
+```mermaid {theme: 'seriph', scale: 0.6}
+stateDiagram-v2
+    direction TB
+
+    state "Hold Ball Line" as Hold
+    state "Ball Wide" as Wide
+    state "Ball Central" as Central
+    state "Ball Behind Line" as Behind
+
+    Hold --> Wide: Step out to cut angle
+    Hold --> Central: Stay compact & big
+    Hold --> Behind: Drop to sweep
+
+    Wide --> Secure: Cut angle & command
+    Central --> Secure: Make yourself big
+    Behind --> Secure: Sweep & clear
+
+    state "Recycle & Reset" as Secure
+    Secure --> Hold: Reposition on ball movement
 ```
 
 ---
@@ -205,37 +280,28 @@ layout: course-page
 title: Ages 9–12 | The Goalie Parent
 ---
 
-# The Goalie Parent aka "The Armchair Therapist"
+# The Goalie Parent: Coaching the Car Ride Home
 
-Goalkeeper parents face a uniquely isolated experience on the sideline. Conceding a goal sits squarely on one pair of shoulders, and kids carry that weight into the car ride home.
+Conceding a goal sits squarely on one pair of shoulders, and a young keeper carries that weight long after the final whistle.
 
 ::left::
 
 <TakeawayBox title="Unconditional Emotional Safety" type="important">
-  Coaches must guide parents to understand that their post-match role is providing emotional safety—not giving lectures or tactical breakdowns in the car.
+  The post-match role is to provide an anchor, not analysis. Frame conceding a goal as a milestone to learn from, not a judgment on the child.
 </TakeawayBox>
 
 <TakeawayBox title="Coaching the Parents" type="success">
-  By coaching parents alongside players, we help families celebrate the highs, process the lows, and keep the game fun and sustainable.
+  When we coach parents alongside players, we help families celebrate the high points and process the lows without losing love for the game.
 </TakeawayBox>
 
 ::right::
 
-### Post-Match Parent Support Loop
+### The Post-Match Loop
 
 ```mermaid {theme: 'seriph', scale: 0.65}
 flowchart TD
-    A[Match Concludes] --> B[Car Ride Home]
-    B --> C{Parent Approach}
-    C -->|Tactical Breakdown| D[Anxiety & Fear of Failure]
-    C -->|Unconditional Safety| E[Emotional Resilience & Joy]
+    A[Match Ends] --> B[Car Ride Home]
+    B --> C{Talk?}
+    C -->|Blame or Analysis| D[Anxiety & Fear]
+    C -->|Safety & Ups| E[Resilience & Joy]
 ```
-
-<div class="mt-4 p-4 bg-gray-50 border border-gray-200 rounded-lg">
-  <h3 class="text-sm font-bold text-blue-900 m-0 mb-1">📝 Check Your Understanding</h3>
-  <ol class="text-xs text-gray-700 m-0 pl-4 space-y-1">
-    <li>How does initiating build-up via sling throws/rollouts improve both goalkeeper and outfield tactical development?</li>
-    <li>Why is a max cap of 50% goal time recommended during the 9–12 developmental window?</li>
-    <li>What specific advice should coaches guide goalkeeper parents on regarding the car ride home?</li>
-  </ol>
-</div>

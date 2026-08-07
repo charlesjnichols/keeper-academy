@@ -21,12 +21,14 @@ Skill benchmarks prioritize safe joint impact and hand shape development before 
 | **Basket Catch** | ✅ | ✅ | ✅ |
 | **Scoop Catch (Ground Ball)** | ✅ | ✅ | ✅ |
 | **Ground Saves (from Squat/Knees)** | ✅ | ✅ | ✅ |
+| **Ball Security & Protection (Chest Lock)** | ✅ | ✅ | ✅ |
 | **Contour Catch (W-Catch)** | | ✅ | ✅ |
 | **High Contour Catch** | | ✅ | ✅ |
 | **Side Contour Catch** | | ✅ | ✅ |
 | **Collapse Dives** | | ✅ | ✅ |
 | **Reaction Saves** | | ✅ | ✅ |
 | **Extension / Flying Dives** | | | ✅ |
+| **High Dive (Upper-Corner Saves)** | | | ✅ |
 | **Parrying to Safe Zones** | | | ✅ |
 
 ::right::
@@ -58,7 +60,9 @@ Distribution and box control progress from simple rolls and short passes to comp
 | :--- | :---: | :---: | :---: |
 | **Bowl / Underhand Roll** | ✅ | ✅ | ✅ |
 | **Short Passing (Inside Foot)** | ✅ | ✅ | ✅ |
+| **Driven Pass (Build-Up)** | | ✅ | ✅ |
 | **Closing Down Space (Basic)** | | ✅ | ✅ |
+| **1v1 Breakaway Management** | | ✅ | ✅ |
 | **K-Block / Star Block** | | ✅ | ✅ |
 | **Cross-Tracking & Judgment** | | ✅ | ✅ |
 | **High Ball Claim** | | ✅ | ✅ |
@@ -67,6 +71,7 @@ Distribution and box control progress from simple rolls and short passes to comp
 | **Punt & Drop Kick** | | ✅ | ✅ |
 | **Sliding Smother** | | | ✅ |
 | **Punching to Safety** | | | ✅ |
+| **Side Volley Distribution** | | | ✅ |
 
 ::right::
 
