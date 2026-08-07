@@ -5,7 +5,7 @@ class: text-center
 highlighter: shiki
 lineNumbers: true
 info: |
-  # Keeper Academy Courseware
+  # The Keeper Blueprint Courseware
   MDX-based presentations for youth soccer goalkeeper coaches.
 drawings:
   enabled: false
@@ -13,10 +13,11 @@ presenter: false
 browserExporter: dev
 selectable: false
 contextMenu: true
-title: Keeper Academy - Youth Goalkeeper Coaching
+layout: section
+title: The Keeper Blueprint - Youth Goalkeeper Coaching
 ---
 
-# Keeper Academy
+# The Keeper Blueprint
 
 Coaches' Pre-Season & In-Season Guide for Youth Goalkeepers (Ages 6–14)
 
