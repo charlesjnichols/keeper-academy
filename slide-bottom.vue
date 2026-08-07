@@ -1,16 +1,10 @@
 <!-- global-bottom.vue -->
 <template>
-  <footer class="fixed bottom-3 right-3 z-50 pointer-events-none select-none">
+  <footer class="fixed top-3 right-3 z-50 pointer-events-none select-none slide-bottom">
     <div
-      class="pointer-events-auto flex items-center gap-2 px-3 py-1.5 rounded-lg shadow-md border border-black/10 dark:border-white/10 bg-white/90 dark:bg-neutral-900/90 text-neutral-800 dark:text-neutral-100 backdrop-blur-md font-mono text-xs"
+      class="pointer-events-auto flex items-center gap-2 px-3 py-1.5 rounded-lg shadow-md text-neutral-800 dark:text-neutral-100 font-mono text-base leading-none"
     >
-      <span class="font-semibold opacity-90">
-        {{ $slidev.nav.currentPage }} / {{ $slidev.nav.total }}
-      </span>
-
-      <span class="opacity-30">|</span>
-
-      <div class="flex items-center gap-1.5">
+      <div class="flex items-center gap-4">
         <button
           v-if="$slidev.nav.hasPrev"
           @click="$slidev.nav.prev"

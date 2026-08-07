@@ -26,6 +26,8 @@ export default defineMermaidSetup(() => {
       secondaryColor: '#1e293b',
       tertiaryColor: '#0f172a',
       edgeLabelBackground: '#1e293b',
+
+      fontSize: '26px',
     },
   }
 })

@@ -54,12 +54,16 @@ const marginClass = computed(() => {
     <div class="grid grid-cols-2 gap-8 flex-1 min-h-0 p-8">
       <!-- Left Column with Scroll Bar -->
       <div class="overflow-y-auto pr-4 h-full">
-        <slot name="left" />
+        <div class="my-auto mx-auto flex flex-col items-center">
+          <slot name="left" />
+        </div>
       </div>
 
       <!-- Right Column with Scroll Bar -->
       <div class="overflow-y-auto pr-4 h-full">
-        <slot name="right" />
+        <div class="my-auto mx-auto flex flex-col items-center">
+          <slot name="right" />
+        </div>
       </div>
     </div>
   </div>

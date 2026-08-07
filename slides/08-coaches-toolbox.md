@@ -37,7 +37,7 @@ A keeper's frame should roughly fill the goal, never be swallowed by it. Match t
 
 ---
 layout: top-title-two-cols
-title: Coaches' Toolbox | GK in Team Practice: Build-Up Restart Game
+title: Coaches' Toolbox | GK in Team Practice - Build-Up Restart Game
 ---
 
 ::title::

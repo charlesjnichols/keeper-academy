@@ -1,47 +1,23 @@
 /* style.css */
-@media screen and (orientation: portrait) {
-    #app {
-        display: none !important;
-    }
 
-    body::before {
-        content: "Please rotate your device to landscape mode to view slides.";
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        height: 100vh;
-        text-align: center;
-        padding: 2rem;
-        font-family: sans-serif;
-    }
-}
-
-#app,
-.slidev-layout {
-    touch-action: manipulation !important;
-}
 
 /* Landscape mobile / short viewports: the 19:9 slide gets scaled down hard,
    so bump up typography and spacing to keep text legible. */
-@media screen and (orientation: landscape) and (max-height: 520px) {
-    :root {
-        font-size: 20px;
-    }
+:root {
+    font-size: 26px;
+}
 
-    .slidev-layout h1 {
-        font-size: 2.6em !important;
-    }
+#app nav.flex>div,
+#app .slidev-icon-btn,
+#app .slidev-icon-btn>span,
+#app .px2.my-auto,
+#app .px2.my-auto>span {
+    font-size: 16px !important;
+    line-height: 1 !important;
+}
 
-    .slidev-layout h2 {
-        font-size: 2em !important;
-    }
-
-    .slidev-layout h3 {
-        font-size: 1.5em !important;
-    }
-
-    .slidev-layout p,
-    .slidev-layout li {
-        font-size: 1.15em !important;
-    }
+footer.z-50.slide-bottom,
+footer.z-50.slide-bottom>div {
+    font-size: 32px !important;
+    line-height: 1 !important;
 }

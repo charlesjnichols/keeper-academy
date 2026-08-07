@@ -131,7 +131,7 @@ Pattern: `slides/01-overview.md`. Use for the course dashboard and any navigatio
 
 Standardize module opener pages on `layout: section`: a single `# Module Title` (the `## Subtitle` is **not** a subsection heading—use a plain line under the `# Title`) plus the `title:` frontmatter. Reserve `layout: cover` for the single deck landing page in `slides.md` only — never for a module opener inside a `src:` deck.
 
-**`title:` frontmatter is REQUIRED on every slide, including openers.** Slidev will not build a slide without it. Always pair the `# Heading` with `title: <Module> | <Heading>` in the same slide's frontmatter.
+**`title:` frontmatter is REQUIRED on every slide, including openers.** Slidev will not build a slide without it. Always pair the `# Heading` with `title: <Module> | <Heading>` in the same slide's frontmatter. **The `title:` value MUST NOT contain a `:` character under any circumstances** (e.g. never `title: Coaching | Set Position: Dive`) — a colon in the title breaks frontmatter/YAML parsing. Use a dash, comma, or restructure instead (e.g. `title: Coaching | Set Position - Dive`).
 | `section` | default | Between-module divider |
 | `default`, `full`, `quote`, `side-title`, `credits` | default / named | General / full-bleed / callout / nav |
 
