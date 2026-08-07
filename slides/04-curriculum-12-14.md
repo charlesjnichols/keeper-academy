@@ -118,7 +118,7 @@ At this advanced specialization stage, coaching aligns with guidelines set by th
 
 ### Advanced Reaction & Recovery Loop
 
-```mermaid {theme: 'seriph', scale: 0.65}
+```mermaid {theme: 'seriph', scale: 0.85}
 stateDiagram-v2
     direction TB
 
@@ -132,6 +132,96 @@ stateDiagram-v2
     ReadShot --> HandleDeflection: Screen / Deflection
     HandleDeflection --> Recovery: Instant Reset to Feet
     Recovery --> DynamicStance
+```
+
+---
+layout: course-page
+title: Ages 12–14 | Power Diving & Shot-Stopping
+---
+
+# Power Diving & Shot-Stopping at the Next Level
+
+At 12–14 the keeper can finally train full flight. Physical maturity unlocks airborne saves, controlled parrying, and contact actions that were unsafe only a year ago.
+
+::left::
+
+<TakeawayBox title="Extension / Flying Dives" type="important">
+  <b>Full Flight:</b> Drive off the near leg, extend fully to reach high and wide shots. Land sequentially on the lateral leg, hip, and lat—never on elbows or stomach.
+</TakeawayBox>
+
+<TakeawayBox title="Parrying to Safe Zones" type="success">
+  <b>Redirect, Don't Fumble:</b> When a shot has too much pace to hold, palm it up and away from danger—high over the bar or wide, never back into the attacking channel.
+</TakeawayBox>
+
+<TakeawayBox title="Sliding Smother & Punching" type="info">
+  <b>Contact Control:</b> Forward smothers to beat attackers to loose balls and clean punching to relieve aerial pressure become safe options with mature coordination.
+</TakeawayBox>
+
+::right::
+
+### Power Save Decision
+
+```mermaid {theme: 'seriph'}
+stateDiagram-v2
+    direction TB
+
+    state "Shot Struck" as Shot
+    state "Catchable" as Catch
+    state "Too Fast / Wide" as Parry
+    state "Reaching Apex" as Dive
+    state "Loose Ball" as Smother
+
+    Shot --> Catch: Clean hold
+    Shot --> Parry: High velocity / crowded
+    Shot --> Dive: Beyond reach
+    Shot --> Smother: At feet
+    Catch --> Secure
+    Parry --> Secure
+    Dive --> Secure
+    Smother --> Secure
+    state "Control & Restart" as Secure
+```
+
+---
+layout: course-page
+title: Ages 12–14 | Sweeper-Keeper & Defensive Command
+---
+
+# The Sweeper-Keeper & Full Backline Command
+
+The modern 12–14 keeper is a field organizer who reads danger early, supports the high line, and sweeps confidently behind it.
+
+::left::
+
+<TakeawayBox title="Sweeper-Keeper Depth" type="success">
+  <b>Position Behind the Line:</b> Step up to act as an extra defender, sweeping through-balls and long balls away before attackers take control behind a high backline.
+</TakeawayBox>
+
+<TakeawayBox title="Directing the Block" type="important">
+  <b>Command the Shape:</b> Coordinate the 11v11 defensive block—managing wall placement, marking stacks, and communicating the line as the field general of the backline.
+</TakeawayBox>
+
+<TakeawayBox title="Command Early & Loud" type="success">
+  <b>Predict & Direct:</b> Issue commands before the outcome, not after. Read the threat early and organize teammates' reaction before the decision is made.
+</TakeawayBox>
+
+::right::
+
+### Sweeper-Keeper Flow
+
+```mermaid {theme: 'seriph'}
+stateDiagram-v2
+    direction TB
+
+    state "High Line Behind Defense" as High
+    state "Read the Run" as Read
+    state "Within Reach" as Approach
+    state "Sweep & Clear" as Sweep
+
+    High --> Read
+    Read --> Approach: Ball played behind
+    Approach --> Sweep: Arrive first
+    Sweep --> High: Track back & reset
 ```
 
 ---
@@ -164,12 +254,3 @@ flowchart TD
     C -->|Low Expectations / Shielding| D[Fragility & Hesitation]
     C -->|High Standards & Trust| E[Mental Resilience & Command]
 ```
-
-<div class="mt-4 p-4 bg-gray-50 border border-gray-200 rounded-lg">
-  <h3 class="text-sm font-bold text-blue-900 m-0 mb-1">📝 Check Your Understanding</h3>
-  <ol class="text-xs text-gray-700 m-0 pl-4 space-y-1">
-    <li>Why is load management essential during physical growth spurts in 12–14 year-old goalkeepers?</li>
-    <li>How does initiating build-up drills directly through the goalkeeper align with IGCC standards?</li>
-    <li>What happens to a youth player's development when coaches raise expectations and trust them as problem solvers?</li>
-  </ol>
-</div>

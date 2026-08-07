@@ -75,35 +75,35 @@ The foundational stance taken right before an opponent strikes the ball, allowin
 
 ---
 layout: course-page
-title: Skill Breakdown | Ball Security
+title: Skill Breakdown | Hand Position
 ---
 
-# Ball Security & Protection
+# Hand Position & Shape
 
-Safely cradling and shielding the ball post-catch to eliminate second-chance rebounds and physical dispossessions.
+The mechanical foundation for securing shots, absorbing ball speed, and preventing soft rebounds.
 
 ::left::
 
 <TakeawayBox title="What It Is & How It's Performed" type="info">
-  <b>What It Is:</b> The immediate transition from catching to securing the ball against body and opponents.<br/><br/>
+  <b>What It Is:</b> Precise hand configurations adapted to ball height to maximize surface coverage.<br/><br/>
   <b>How It's Performed:</b>
   <ul>
-    <li><b>The Chest Lock:</b> Pull secured balls tightly into mid-chest immediately after contact.</li>
-    <li><b>Forearm Shield:</b> Forearms wrap vertically around ball sides with elbows tucked securely against ribs.</li>
-    <li><b>Ground Securing:</b> On ground saves, pin ball with top hand while bottom hand forms a base cushion underneath.</li>
-    <li><b>Body Shielding:</b> Turn shoulders away from approaching attackers to shield ball with back frame.</li>
+    <li><b>W-Shape (High Balls):</b> Thumbs nearly touching, index fingers angled up, forming a "W" behind the ball.</li>
+    <li><b>Cup / Scoop (Low Balls):</b> Palms facing forward/up, pinkies touching, hands funneled in front of feet.</li>
+    <li><b>Attacking Reach:</b> Extend hands forward to meet the ball ahead of the torso line.</li>
+    <li><b>Absorption:</b> Flexible wrists and yielding elbows absorb shock and pull the ball into chest lock.</li>
   </ul>
 </TakeawayBox>
 
 ::right::
 
 <TakeawayBox title="How to Coach It" type="success">
-  <b>Verbal Cues:</b> <i>"Hug the ball"</i> | <i>"Lock it in"</i> | <i>"Cover and shield"</i><br/><br/>
+  <b>Verbal Cues:</b> <i>"Catch in front"</i> | <i>"Soft hands, strong wrists"</i> | <i>"Pads, not palms"</i><br/><br/>
   <b>Common Mistakes to Correct:</b>
   <ul>
-    <li><b>Holding Ball Outward:</b> Leaving ball exposed away from chest allows trailing attackers to kick it free.</li>
-    <li><b>Flared Elbows:</b> Creates open gaps where collisions pop the ball loose. Keep elbows tucked.</li>
-    <li><b>Early Relaxation:</b> Dropping guard before complete control is established leads to loose balls.</li>
+    <li><b>Palms Stiff / Flat Hands:</b> Causes high-velocity shots to bounce off hard hands into oncoming attackers.</li>
+    <li><b>Thumbs Flared Out Wide:</b> Ball slips between hands into face or chest. Ensure thumbs stay close.</li>
+    <li><b>Catching Behind Body Line:</b> Reduces reaction distance and leads to muffed catches near the goal line.</li>
   </ul>
 </TakeawayBox>
 
@@ -211,40 +211,6 @@ The technique used to secure balls arriving above head height, such as crosses, 
 
 ---
 layout: course-page
-title: Skill Breakdown | Hand Position
----
-
-# Hand Position & Shape
-
-The mechanical foundation for securing shots, absorbing ball speed, and preventing soft rebounds.
-
-::left::
-
-<TakeawayBox title="What It Is & How It's Performed" type="info">
-  <b>What It Is:</b> Precise hand configurations adapted to ball height to maximize surface coverage.<br/><br/>
-  <b>How It's Performed:</b>
-  <ul>
-    <li><b>W-Shape (High Balls):</b> Thumbs nearly touching, index fingers angled up, forming a "W" behind the ball.</li>
-    <li><b>Cup / Scoop (Low Balls):</b> Palms facing forward/up, pinkies touching, hands funneled in front of feet.</li>
-    <li><b>Attacking Reach:</b> Extend hands forward to meet the ball ahead of the torso line.</li>
-    <li><b>Absorption:</b> Flexible wrists and yielding elbows absorb shock and pull the ball into chest lock.</li>
-  </ul>
-</TakeawayBox>
-
-::right::
-
-<TakeawayBox title="How to Coach It" type="success">
-  <b>Verbal Cues:</b> <i>"Catch in front"</i> | <i>"Soft hands, strong wrists"</i> | <i>"Pads, not palms"</i><br/><br/>
-  <b>Common Mistakes to Correct:</b>
-  <ul>
-    <li><b>Palms Stiff / Flat Hands:</b> Causes high-velocity shots to bounce off hard hands into oncoming attackers.</li>
-    <li><b>Thumbs Flared Out Wide:</b> Ball slips between hands into face or chest. Ensure thumbs stay close.</li>
-    <li><b>Catching Behind Body Line:</b> Reduces reaction distance and leads to muffed catches near the goal line.</li>
-  </ul>
-</TakeawayBox>
-
----
-layout: course-page
 title: Skill Breakdown | Ground Handling (Scoop & Basket)
 ---
 
@@ -266,6 +232,40 @@ Securing rolling ground balls and waist-height shots safely using body-barrier t
   <b>What It Is:</b> Securing hard waist-to-chest height shots directly into the midsection.<br/><br/>
   <b>How It's Performed:</b> Bend slightly at the waist, extend forearms forward parallel with palms up. Cushion the ball into the soft stomach, folding shoulders over top to lock it.<br/><br/>
   <b>How to Coach It:</b> Cue <i>"Cradle the baby"</i> and <i>"Huddle over the ball."</i> Watch for elbows flaring out wide, which lets shots pop free.
+</TakeawayBox>
+
+---
+layout: course-page
+title: Skill Breakdown | Ball Security
+---
+
+# Ball Security & Protection
+
+Safely cradling and shielding the ball post-catch to eliminate second-chance rebounds and physical dispossessions.
+
+::left::
+
+<TakeawayBox title="What It Is & How It's Performed" type="info">
+  <b>What It Is:</b> The immediate transition from catching to securing the ball against body and opponents.<br/><br/>
+  <b>How It's Performed:</b>
+  <ul>
+    <li><b>The Chest Lock:</b> Pull secured balls tightly into mid-chest immediately after contact.</li>
+    <li><b>Forearm Shield:</b> Forearms wrap vertically around ball sides with elbows tucked securely against ribs.</li>
+    <li><b>Ground Securing:</b> On ground saves, pin ball with top hand while bottom hand forms a base cushion underneath.</li>
+    <li><b>Body Shielding:</b> Turn shoulders away from approaching attackers to shield ball with back frame.</li>
+  </ul>
+</TakeawayBox>
+
+::right::
+
+<TakeawayBox title="How to Coach It" type="success">
+  <b>Verbal Cues:</b> <i>"Hug the ball"</i> | <i>"Lock it in"</i> | <i>"Cover and shield"</i><br/><br/>
+  <b>Common Mistakes to Correct:</b>
+  <ul>
+    <li><b>Holding Ball Outward:</b> Leaving ball exposed away from chest allows trailing attackers to kick it free.</li>
+    <li><b>Flared Elbows:</b> Creates open gaps where collisions pop the ball loose. Keep elbows tucked.</li>
+    <li><b>Early Relaxation:</b> Dropping guard before complete control is established leads to loose balls.</li>
+  </ul>
 </TakeawayBox>
 
 ---
@@ -379,6 +379,41 @@ graph TD
 
 ---
 layout: course-page
+title: Skill Breakdown | Parrying to Safe Zones
+---
+
+# Parrying to Safe Zones
+
+Redirecting high-velocity or hard-to-hold shots with the palms to a safe area, rather than attempting an unsafe catch or presenting a rebound to attackers.
+
+::left::
+
+<TakeawayBox title="What It Is & How to Coach It" type="info">
+  <b>What It Is:</b> An open-palm save used when a shot is too powerful or moving too quickly to be caught cleanly.<br/><br/>
+  <b>How It's Performed:</b>
+  <ol>
+    <li>Judge early whether the ball can be caught; decide to parry when the hold is unlikely.</li>
+    <li>Meet the ball with open palms, fingers spread, wrists firm.</li>
+    <li>Redirect up and over the bar for high balls, or wide and forward toward the flank.</li>
+    <li>Never parry back into the center of the box toward arriving attackers.</li>
+  </ol><br/>
+  <b>Verbal Cues:</b> <i>"Make it wide"</i> | <i>"Over the bar"</i> | <i>"Hands up, palms open"</i>
+</TakeawayBox>
+
+::right::
+
+```mermaid {theme: 'seriph', scale: 0.65}
+graph TD
+    subgraph Parry ["Parrying to Safe Zones Flow"]
+        direction TB
+        A["Decide: too fast to hold"] --> B["Extend Open Palms Firm"]
+        B --> C["Redirect Up / Wide"]
+        C --> D["Stick to Safe Zone"]
+    end
+```
+
+---
+layout: course-page
 title: Skill Breakdown | Cross Collection
 ---
 
@@ -410,6 +445,42 @@ graph TD
         B --> C["Drive Off Foot with Defensive Knee Up"]
         C --> D["Catch Ball at Peak Elevation (W-Shape)"]
         D --> E["Land Balanced & Secure to Chest Lock"]
+    end
+```
+
+---
+layout: course-page
+title: Skill Breakdown | Punching & High Clearance
+---
+
+# Punching High Balls & Aerial Clearance
+
+Aggressively clearing lofted balls, crosses, and aerial duels by punching the ball out rather than claiming it, used when a catch is contested or risky.
+
+::left::
+
+<TakeawayBox title="What It Is & How to Coach It" type="info">
+  <b>What It Is:</b> A deliberate one- or two-fisted punch to defuse an aerial delivery when catching is unsafe or traffic is heavy.<br/><br/>
+  <b>How It's Performed:</b>
+  <ol>
+    <li>Read the flight, pace, and surrounding traffic before committing.</li>
+    <li>Drive off one foot, extending the punching arm to meet the ball at its apex.</li>
+    <li>Strike the underside-center of the ball with clenched fist pads.</li>
+    <li>Punch high and distant, toward the flanks—away from the danger area in front of goal.</li>
+  </ol><br/>
+  <b>Verbal Cues:</b> <i>"Punch it away"</i> | <i>"Fists together"</i> | <i>"Clear to the flank"</i>
+</TakeawayBox>
+
+::right::
+
+```mermaid {theme: 'seriph', scale: 0.65}
+graph TD
+    subgraph Punch ["Punching / Aerial Clearance Flow"]
+        direction TB
+        A["Read Flight & Traffic"] --> B["Loud 'KEEPER!' Call"]
+        B --> C["Drive Off One Foot, Knee Up"]
+        C --> D["Fist-Fit Contact on Underside"]
+        D --> E["Clear High & Wide to Flank"]
     end
 ```
 
@@ -518,6 +589,76 @@ graph TD
         B --> C["Drive Hands Forward Ahead of Head"]
         C --> D["Secure Ball & Slide on Lateral Body"]
         D --> E["Tuck & Shield Ball to Chest Lock"]
+    end
+```
+
+---
+layout: course-page
+title: Skill Breakdown | Angle Play & Ball-Line
+---
+
+# Angle Play & Ball-Line Resonance
+
+Positioning that keeps the goalkeeper between the ball and the goal, cutting the shooter's effective target and making the keeper's frame cover the goal.
+
+::left::
+
+<TakeawayBox title="What It Is & How to Coach It" type="info">
+  <b>What It Is:</b> Continual repositioning along the line from the ball to the center of goal so the keeper stays in line and cuts the shooter's angle.<br/><br/>
+  <b>How It's Performed:</b>
+  <ol>
+    <li>Track the ball and step off the line to reduce the angle of a central shooter.</li>
+    <li>Stay on the imaginary ball-to-goal line; adjust as the ball moves or a teammate deflects it.</li>
+    <li>Maintain a ready stance and reset after each shift into a clean, reactive set.</li>
+  </ol><br/>
+  <b>Verbal Cues:</b> <i>"Stay on the line"</i> | <i>"Cut the angle"</i> | <i>"Step out"</i>
+</TakeawayBox>
+
+::right::
+
+```mermaid {theme: 'seriph', scale: 0.65}
+graph TD
+    subgraph Angle ["Angle Play / Ball-Line Flow"]
+        direction TB
+        A["Track the Ball"] --> B["Stay on Ball-to-Goal Line"]
+        B --> C{Opponent Close?}
+        C -->|Yes| D["Step Out to Cut Angle"]
+        C -->|No| E["Hold Ready Stance"]
+        D --> F["Shrink the Target"]
+    end
+```
+
+---
+layout: course-page
+title: Skill Breakdown | Sweeping & Sweeper-Keeper
+---
+
+# Sweeping & Sweeper-Keeper Depth
+
+Acting as a second defender behind the line to read and intercept through-balls, protecting the space a high defensive line leaves behind it.
+
+::left::
+
+<TakeawayBox title="What It Is & How to Coach It" type="info">
+  <b>What It Is:</b> Using the keeper's depth and footwork as an extra defender to clear balls played into the space behind the back line.<br/><br/>
+  <b>How It's Performed:</b>
+  <ol>
+    <li>Stay at a depth that lets you beat the attacker to a ball played behind the line.</li>
+    <li>Read the pass early and spring off the line to meet it.</li>
+    <li>Clear with a slide smother, low scoop, or clean outside-foot clearance.</li>
+    <li>Recover quickly to your goal-side position once the danger is cleared.</li>
+  </ol><br/>
+  <b>Verbal Cues:</b> <i>"Read it early"</i> | <i>"Beat the attacker"</i> | <i>"Sweep and recover"</i>
+</TakeawayBox>
+
+```mermaid {theme: 'seriph', scale: 0.65}
+graph TD
+    subgraph Sweep ["Sweeper-Keeper Flow"]
+        direction TB
+        A["Hold Depth Behind the Line"] --> B["Read the Long Pass"]
+        B --> C["Spring Out Before Attackers"]
+        C --> D["Clear Low & Fast"]
+        D --> E["Recover to Goal"]
     end
 ```
 
