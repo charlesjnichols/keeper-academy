@@ -10,7 +10,7 @@ zoom: 0.85
 
 ::content::
 
-Welcome to The Keeper Blueprint courseware. This manual provides a phased, long-term athletic development model for goalkeepers, aligning training objectives with physical and cognitive readiness. 
+Welcome to The Keeper Blueprint courseware. This manual provides a phased, long-term athletic development model for goalkeepers, aligning training objectives with physical and cognitive readiness.
 
 Select a module below to begin.
 
@@ -20,15 +20,19 @@ Select a module below to begin.
     Foundation, multi-sport agility, ball familiarity, and avoiding early specialization.
   </ModuleCard>
 
-  <ModuleCard icon="⚙️" title="Module 2: Ages 9–12" target="15">
+  <ModuleCard icon="⚙️" title="Module 2: Ages 9–12" target="16">
     Technical fundamentals, establishing the set position, and basic angle play.
   </ModuleCard>
 
-  <ModuleCard icon="🧠" title="Module 3: Ages 12–14" target="26">
+  <ModuleCard icon="🧠" title="Module 3: Ages 12–14" target="28">
     Advanced mechanics, game reading, distribution, and tactical communication.
   </ModuleCard>
 
-  <ModuleCard icon="📚" title="Reference Library" target="34">
+  <ModuleCard icon="🧰" title="Coaches' Toolbox" target="37">
+    Goal and ball sizing, team integration, session templates, and the after-goal reset.
+  </ModuleCard>
+
+  <ModuleCard icon="📚" title="Reference Library" target="43">
     Cross-age expectations matrix and core technical mechanics reference guide.
   </ModuleCard>
 

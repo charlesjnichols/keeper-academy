@@ -360,7 +360,7 @@ Explosive lateral power push to reach mid-height and wide shots beyond simple co
     <li>Step diagonally toward the ball trajectory with the near foot.</li>
     <li>Drive forcefully off the near leg, extending hip, knee, and ankle.</li>
     <li>Extend both hands together along the ball flight path.</li>
-    <li>Absorb landing sequentially across lateral leg, hip, and lat muscle, never on elbows or stomach.</li>
+    <li>Absorb landing sequentially across the outer leg, hip, and side of the torso, never on elbows or stomach.</li>
   </ol><br/>
   <b>Verbal Cues:</b> <i>"Power step"</i> | <i>"Drive the hip"</i> | <i>"Land on your side"</i>
 </TakeawayBox>
@@ -640,7 +640,7 @@ title: Skill Breakdown | Angle Play & Ball-Line
 
 ::title::
 
-# Angle Play & Ball-Line Resonance
+# Angle Play & Ball-Line
 
 ::default::
 

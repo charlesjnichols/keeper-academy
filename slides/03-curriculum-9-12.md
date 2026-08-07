@@ -7,7 +7,6 @@ layout: section
 
 Developmental Sweet Spot
 
-
 ---
 layout: top-title
 title: Ages 9–12 | Developmental Sweet Spot
@@ -72,7 +71,7 @@ Coaching at this stage aligns with guidelines set by the **International Goalkee
 
 ### The Dynamic Vision
 
-```mermaid {theme: 'default', scale: 0.7}
+```mermaid {theme: 'base', scale: 0.7}
 flowchart TD
     DynamicStance[Dynamic Stance]
     DynamicStance -->|Scan and Set| ReadShot[Read Shot]
@@ -83,7 +82,7 @@ flowchart TD
 
 ---
 layout: top-title-two-cols
-title: "Ages 9–12 | Technical: Hand Shape & Catching"
+title: Ages 9–12 | Technical: Hand Shape & Catching
 ---
 
 ::title::
@@ -112,7 +111,7 @@ Before a keeper can react to match pace, they must own a correct, repeatable cat
 
 ### Catch Progression
 
-```mermaid {theme: 'default', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
     A[Basket & Scoop] --> B[Contour W-Catch]
     A --> C[High Contour]
@@ -151,27 +150,23 @@ In a one-v-one, the keeper delays and stays as big and as late as possible, forc
 
 ### The 1v1 Sequence
 
-```mermaid {theme: 'default', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
   Read[Read the Threat Early]
   Delay[Delay the Approach]
-  Stay[Stay Big and Late]
-  Decide{Can I Win the Race?}
-  Commit[Force the Attacker to Commit]
-  Spread[Close Quick and Spread Block]
+  Decide{Win the Race?}
+  Commit[Close Quick and Spread Block]
+  Hold[Hold the Line and Stay Big]
   Save[Make the Save]
   Recover[Recover Back to Position]
 
   Read --> Delay
-  Delay --> Stay
-  Stay --> Decide
-  Decide -->|Yes, beat them to it| Commit
-  Decide -->|No, they have it| Hold[Hold the Line and Stay Big]
-  Commit --> Spread
-  Spread --> Save
+  Delay --> Decide
+  Decide -->|Yes| Commit
+  Decide -->|No| Hold
+  Commit --> Save
   Hold --> Save
   Save --> Recover
-  Recover --> Read
 ```
 
 ---
@@ -189,32 +184,6 @@ Attack crosses at the highest point, driving off one leg and catching with high,
 
 ::left::
 
-```mermaid {theme: 'default', scale: 0.65}
-flowchart TD
-  Read[Track the Cross]
-  Judge{Can I Reach the Highest Point?}
-  Peak[Attack the Highest Point]
-  Drive[Drive Off One Leg]
-  Hands[Send High, Committed Hands]
-  Call[Loud 'Keeper!' Call]
-  Clear[Claim When Safe]
-  Punch[Punch When Boxed In]
-  Reset[Reset Into Position]
-
-  Read --> Judge
-  Judge -->|Clean, in range| Peak
-  Peak --> Drive
-  Drive --> Hands
-  Hands --> Call
-  Call --> Clear
-  Call --> Punch
-  Clear --> Reset
-  Punch --> Reset
-  Judge -->|Out of reach / crowded| Position[Stay Set and Ready to Save]
-```
-
-::right::
-
 <TakeawayBox title="Cross Claiming" type="success">
   <b>Own the Center:</b> Attack crosses at the highest point, driving off one leg and catching with high, committed hands. Claim or punch with a loud "Keeper!" call.
 </TakeawayBox>
@@ -222,6 +191,29 @@ flowchart TD
 <TakeawayBox title="Claim vs Punch" type="important">
   <b>Read the Traffic:</b> Claim when you can reach the peak ball cleanly; punch it to safety when you are boxed in or the contact is contested. A clean claim is better than a knocked-back punch.
 </TakeawayBox>
+
+::right::
+
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+  Read[Track the Cross]
+  Judge{Reach the Peak?}
+  Peak[Attack the Highest Point]
+  Hands[High, Committed Hands]
+  Call[Loud 'Keeper!' Call]
+  Clear[Claim When Safe]
+  Punch[Punch When Boxed In]
+  Reset[Reset Into Position]
+
+  Read --> Judge
+  Judge -->|Yes| Peak
+  Peak --> Hands
+  Hands --> Call
+  Call --> Clear
+  Call --> Punch
+  Clear --> Reset
+  Punch --> Reset
+```
 
 ---
 layout: top-title-two-cols
@@ -250,22 +242,20 @@ Read through-balls early and sprint off the line to slide-scoop or smother the l
 
 ### Sweeping the Loose Ball
 
-```mermaid {theme: 'default', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
   Read[Read the Through-Ball Early]
-  Race{Can I Win the Race?}
+  Race{Win the Race?}
   Sprint[Sprint Off the Line]
-  Scoop[Slide-Scoop / Smother]
-  Beat[Beat Attacker to the Ball]
+  Scoop[Slide-Scoop or Smother]
   Reset[Secure and Reset]
   Cover[Stay Set and Narrow the Angle]
 
   Read --> Race
   Race -->|Yes| Sprint
   Sprint --> Scoop
-  Scoop --> Beat
-  Beat --> Reset
-  Race -->|No, ball gone| Cover
+  Scoop --> Reset
+  Race -->|No| Cover
 ```
 
 ---
@@ -299,7 +289,7 @@ After every save the keeper restarts play. The young keeper learns to pick the r
 
 ### Distribution Decision Flow
 
-```mermaid {theme: 'default', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
     GK[GK Secures Ball]
     Roll[Underhand Roll]
@@ -350,7 +340,7 @@ A great 9–12 keeper organizes their defense and holds a strong angle. Communic
 
 ### Positioning Loop
 
-```mermaid {theme: 'default', scale: 0.6}
+```mermaid {theme: 'base', scale: 0.6}
 flowchart TD
     Hold[Hold Ball Line]
     Wide[Ball Wide]
@@ -365,6 +355,42 @@ flowchart TD
     Central -->|Make yourself big| Secure
     Behind -->|Sweep and clear| Secure
     Secure[Recycle and Reset] -->|Reposition on ball movement| Hold
+```
+
+---
+layout: top-title-two-cols
+title: Ages 9–12 | From Theory to Session
+---
+
+::title::
+
+# From Theory to Session: The 15-Minute Keeper Block
+
+::default::
+
+A short keeper block inside the team session, then straight back into a game. Every activity starts from a catch and ends with a distribution, so habits stay connected to play.
+
+::left::
+
+<TakeawayBox title="W-Catch Pairs" type="success">
+  <b>Make the W:</b> Partners 8 yards apart. Feed firm, chest-to-head balls; the keeper steps to meet it, calls <i>"Keeper!"</i>, catches with a W-shape, and brings it to the chest lock. 4 minutes.
+</TakeawayBox>
+
+<TakeawayBox title="Collapse Dive Foam" type="info">
+  <b>Step, Collapse, Slide:</b> Low side feeds onto soft ground. Lead step, collapse to the outer thigh, hands behind the ball. Land on the side, never on elbows. 4 minutes.
+</TakeawayBox>
+
+::right::
+
+<TakeawayBox title="1v1 Gate Game" type="warning">
+  <b>Stay Big, Stay Late:</b> Two goals, two keepers. One ball, one attacker each side; the keeper delays, picks the moment, and spreads the block. 4 minutes, then swap. Finish the block with a bowl or sling to a teammate to start the next game.
+</TakeawayBox>
+
+```mermaid {theme: 'base', scale: 0.6}
+flowchart TD
+    A[W-Catch Pairs] --> B[Collapse Dive Foam]
+    B --> C[1v1 Gate Game]
+    C --> D[Back Into the Team Game]
 ```
 
 ---
@@ -394,7 +420,7 @@ Conceding a goal sits squarely on one pair of shoulders, and a young keeper carr
 
 ### The Post-Match Loop
 
-```mermaid {theme: 'default', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
     A[Match Ends] --> B[Car Ride Home]
     B --> C{Talk?}

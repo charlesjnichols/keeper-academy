@@ -23,7 +23,7 @@ In the 12–14 age bracket, goalkeepers experience rapid physical growth alongsi
 <div class="grid grid-cols-2 gap-6 mt-8">
 
   <TakeawayBox title="Physical Development" type="warning">
-    <b>Managing Growth Spurts:</b> Rapid growth spurts cause temporary coordination loss and joint pain. Precise load management protects athlete health and prevents overuse injuries.
+    <b>Managing Growth Spurts:</b> Rapid growth spurts cause temporary coordination loss and joint pain. Precise load management protects athlete health and prevents overuse injuries. Expect mechanics that regress during a growth spurt; re-teach them patiently rather than punishing.
   </TakeawayBox>
 
   <TakeawayBox title="Tactical Command" type="success">
@@ -141,7 +141,7 @@ At 12–14 the keeper can finally train full flight. Physical maturity enables a
 ::left::
 
 <TakeawayBox title="Extension / Flying Dives" type="important">
-  <b>Full Flight:</b> Drive off the near leg, extend fully to reach high and wide shots. Land sequentially on the lateral leg, hip, and lat, never on elbows or stomach.
+  <b>Full Flight:</b> Drive off the near leg, extend fully to reach high and wide shots. Land sequentially on the outer leg, hip, then side of the torso, never on elbows or stomach.
 </TakeawayBox>
 
 <TakeawayBox title="Parrying to Safe Zones" type="success">
@@ -252,4 +252,40 @@ flowchart TD
     B --> C{Coaching Mindset}
     C -->|Low Expectations / Shielding| D[Fragility & Hesitation]
     C -->|High Standards & Trust| E[Mental Resilience & Command]
+```
+
+---
+layout: top-title-two-cols
+title: Ages 12–14 | From Theory to Session
+---
+
+::title::
+
+# From Theory to Session: The 20-Minute Keeper Block
+
+::default::
+
+A game-realistic block that keeps the keeper connected to the team: every drill starts from a restart and ends in a save or a distribution, under realistic pressure.
+
+::left::
+
+<TakeawayBox title="Deflection & Second Shot" type="success">
+  <b>Reset to Feet:</b> A striker shoots, a coach deflects it with a rebound board, the keeper must parry to a safe zone and explode back to feet for the follow-up shot. 6 minutes.
+</TakeawayBox>
+
+<TakeawayBox title="Build-Up From the GK" type="info">
+  <b>Short or Long:</b> 5v4 plus keepers. Every restart starts from the GK, who chooses short to the backline or long to the forward based on the press. A back pass to the GK counts double. 7 minutes.
+</TakeawayBox>
+
+::right::
+
+<TakeawayBox title="Crosses Under Traffic" type="warning">
+  <b>Claim or Punch:</b> Serve corners and wide crosses with two attackers challenging the near post. The keeper decides claim vs punch, calls <i>"Keeper!"</i> early, and resets to organize the line after each save. 7 minutes.
+</TakeawayBox>
+
+```mermaid {theme: 'base', scale: 0.6}
+flowchart TD
+    A[Deflection and Second Shot] --> B[Build-Up From the GK]
+    B --> C[Crosses Under Traffic]
+    C --> D[Finish With a Game]
 ```

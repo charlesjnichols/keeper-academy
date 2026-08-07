@@ -55,6 +55,10 @@ src: ./slides/07-contact.md
 ---
 
 ---
+src: ./slides/08-coaches-toolbox.md
+---
+
+---
 src: ./slides/05-expectations-matrix.md
 ---
 

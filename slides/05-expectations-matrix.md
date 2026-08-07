@@ -74,7 +74,7 @@ Distribution and box control progress from simple rolls and short passes to comp
 | **Closing Down Space (Basic)** | | ✅ | ✅ |
 | **1v1 Breakaway Management** | | ✅ | ✅ |
 | **K-Block / Star Block** | | ✅ | ✅ |
-| **Cross-Tracking & Judgment** | | ✅ | ✅ |
+| **Cross-Tracking & Judgment** | ✅ | ✅ | ✅ |
 | **High Ball Claim** | | ✅ | ✅ |
 | **Sling Throw** | | ✅ | ✅ |
 | **Baseball Throw Release** | | ✅ | ✅ |

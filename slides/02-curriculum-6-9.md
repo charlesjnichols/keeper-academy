@@ -7,7 +7,6 @@ layout: section
 
 Foundation & Playful Discovery
 
-
 ---
 layout: top-title
 title: Ages 6–9 | Developmental Reality
@@ -48,15 +47,13 @@ title: Ages 6–9 | The Young Keeper's Mind
 
 ::title::
 
-# The Psychological Keeper's Mind
+# The Young Keeper's Mind
 
 ::default::
 
 Before any skill, a young keeper's mind needs to see goalkeeping as fun, not a test. A safe, playful environment lets confidence and courage grow from within.
 
 ::left::
-
-### Psychological Growth
 
 <TakeawayBox title="Love of Movement" type="info">
   <b>Joy Over Outcome:</b> The only non-negotiable outcome is that kids leave every session wanting to come back. Pressure and results at this age actively work against long-term retention.
@@ -66,7 +63,7 @@ Before any skill, a young keeper's mind needs to see goalkeeping as fun, not a t
   <b>Mastery Through Success:</b> A child's sense of self grows from repeated small successes, not lectures. Set the bar low enough to be cleared and celebrate the attempt, so every session ends with "I can do this."
 </TakeawayBox>
 
-<TakeawayBox title="Mistakes Are Experiments" type="info">
+<TakeawayBox title="Mistakes Are Experiments" type="success">
   <b>Reframe the Miss:</b> Drop the ball? Miss the catch? At this age a "mistake" is data, not a verdict. Normalizing failure teaches resilience and keeps a developing ego out of the way of learning.
 </TakeawayBox>
 
@@ -145,7 +142,7 @@ For young keepers, safe catching technique on the ground and at the waist is the
   <b>Rolling Ground Balls:</b> Lower into a squat or trailing-knee position behind the ball, pinkies together with palms up, and funnel the ball up into a chest lock. Cue <i>"body behind the ball."</i>
 </TakeawayBox>
 
-<TakeawayBox title="Safe Ground Saves" type="important">
+<TakeawayBox title="Safe Ground Saves" type="success">
   <b>Low Saves from Squat/Knees:</b> Teach controlled ground drops and sliding saves rather than airborne dives. Land on the side, never on elbows or knees, to protect fragile joints and build confidence.
 </TakeawayBox>
 
@@ -186,7 +183,7 @@ Young goalkeepers are the first attacker. Simple, safe distribution builds comfo
   <b>Keep It Simple:</b> After a catch, a quick short pass to a defender beside or behind the goal starts the build-up without needing a big kick.
 </TakeawayBox>
 
-<TakeawayBox title="Defer Big Kicks" type="important">
+<TakeawayBox title="Defer Big Kicks" type="warning">
   <b>No Punts or Sling Throws Yet:</b> Young arms and legs lack the strength for punting and overhand throws. Force-feeding them builds bad mechanics, rolls and short passes are plenty.
 </TakeawayBox>
 
@@ -217,7 +214,7 @@ Some kids fall in love with goal immediately. Team coaches can fan that spark in
 
 ::left::
 
-<TakeawayBox title="Rotate, Don't Specialize" type="important">
+<TakeawayBox title="Rotate, Don't Specialize" type="warning">
   <b>Everyone Gets a Taste:</b> Give every player regular turns in goal across practices and matches. A curious child gets opportunities; nobody gets trapped between the posts.
 </TakeawayBox>
 
@@ -265,7 +262,7 @@ The earliest leadership habits and the confidence to throw a body at the ball ar
   <b>Follow the Defense Out:</b> Learn to move up as the team advances and recover when possession turns over, a simple habit that builds positional sense.
 </TakeawayBox>
 
-<TakeawayBox title="Learn to Fall Before Diving" type="important">
+<TakeawayBox title="Learn to Fall Before Diving" type="warning">
   <b>Safe Falling Groundwork:</b> Practice rolling and tumbling on soft surfaces with foam balls so children learn to land safely before any real dive is ever attempted.
 </TakeawayBox>
 
@@ -314,7 +311,6 @@ flowchart TD
     A[Runs, Chases, Scores] --> B[Takes Turns in Goal]
     B --> C[Builds Team Empathy]
     C --> A
-
 ```
 
 ---
@@ -332,32 +328,62 @@ The rule is simple: rotate the keeper's turn so everybody gets touches and nobod
 
 ::left::
 
-### Practice Environment
-
 <TakeawayBox title="Rotate All Players" type="success">
   <b>Everybody Gets a Turn:</b> Sweep keepers through the role in short, fun stations so goalkeeping stays one part of the game, not an identity.
 </TakeawayBox>
 
 ```mermaid {theme: 'base', scale: 0.7}
 flowchart TD
-    A[Rotate All Players] --> B[Experience Goalkeeping]
-    B --> C[Build Team Empathy]
-    C --> A
+    A[Rotate in Practice] --> B[Short Keeper Turns]
+    B --> C[Team Empathy]
 ```
 
 ::right::
 
-### Match
-
-<TakeawayBox title="Never On Forced To" type="info">
-  <b>Voluntary & Shared:</b> Goalkeeping in matches is up for grabs week to week, shared responsibility no child is ever pushed into.
+<TakeawayBox title="Never Forced in Matches" type="info">
+  <b>Voluntary & Shared:</b> Goalkeeping in matches is up for grabs week to week, a shared responsibility no child is ever pushed into.
 </TakeawayBox>
 
 ```mermaid {theme: 'base', scale: 0.7}
 flowchart TD
     A[Voluntary Selection] --> B[Shared Responsibility]
-    B --> C[Never Forced]
+    B --> C[No Child Ever Forced]
+```
 
+---
+layout: top-title-two-cols
+title: Ages 6–9 | From Theory to Session
+---
+
+::title::
+
+# From Theory to Session: The 10-Minute Keeper Station
+
+::default::
+
+Goalkeeping at this age lives inside the team game. Run one short, fun station, then weave the keepers back into play so nobody stands between the posts alone.
+
+::left::
+
+<TakeawayBox title="Scoop & Roll Relay" type="success">
+  <b>Ground to Hands:</b> Two cones 6 yards apart. Keepers scoop a rolled ball into a chest lock, then bowl it low and smooth to the next keeper in line. Cue <i>"pinkies together"</i> and <i>"body behind the ball."</i>
+</TakeawayBox>
+
+<TakeawayBox title="Keeper Wars" type="success">
+  <b>Save, Recover, Save:</b> Two keepers, two small goals, one soft ball each. Roll the ball out, save your own shot, then bowl it into the opposite goal. Turns every catch into a reward.
+</TakeawayBox>
+
+::right::
+
+<TakeawayBox title="Run It in 10 Minutes" type="warning">
+  <b>Keep It Moving:</b> 3 minutes per station, 1 minute of coaching in between. Foam or size 3 balls only, no diving and no hard shots. If a child flinches at the ball, feed it underhand until the eyes track it.
+</TakeawayBox>
+
+```mermaid {theme: 'base', scale: 0.6}
+flowchart TD
+    A[Warm Up With the Team] --> B[10-Minute Keeper Station]
+    B --> C[Rotate the Turn]
+    C --> D[Back Into the Team Game]
 ```
 
 ---
@@ -398,4 +424,3 @@ flowchart TD
     C -->|Post-Match Analysis| D[Anxiety & Fear of Failure]
     C -->|Playful Questions & Safety| E[Joy & Love of the Game]
 ```
-
