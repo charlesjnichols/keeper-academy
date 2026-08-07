@@ -1,61 +1,55 @@
 ---
+title: Ages 12–14 | Advancement and Specialization
 layout: section
 ---
 
 # Ages 12–14
-## Advancement and Specialization
+
+Advancement and Specialization
 
 ---
-layout: course-page
+layout: top-title
 title: Ages 12–14 | The Growth Spurt & Mental Leap
 ---
 
+::title::
+
 # Navigating Physical & Tactical Shifts
 
-In the 12–14 age bracket, goalkeepers experience rapid physical growth alongside a massive explosion in tactical understanding as they fully transition into 11v11 specialization.
+::content::
 
-::left::
+In the 12–14 age bracket, goalkeepers experience rapid physical growth alongside a sharp rise in tactical understanding as they fully transition into the demands of 11v11 play.
 
-<TakeawayBox title="Physical Growth & Load Management" type="warning">
-  <b>Managing Growth Spurts:</b> Rapid growth spurts cause temporary coordination loss and joint pain. Precise load management is critical to protect athlete health and prevent overuse injuries.
-</TakeawayBox>
+<div class="grid grid-cols-2 gap-6 mt-8">
 
-<TakeawayBox title="Tactical Brain & Field Command" type="success">
-  <b>The Tactical Leap:</b> Players shift from reactive play to reading the game 2–3 steps ahead—scanning, mastering spatial awareness, and actively organizing the backline as field generals.
-</TakeawayBox>
+  <TakeawayBox title="Physical Development" type="warning">
+    <b>Managing Growth Spurts:</b> Rapid growth spurts cause temporary coordination loss and joint pain. Precise load management protects athlete health and prevents overuse injuries.
+  </TakeawayBox>
 
-::right::
+  <TakeawayBox title="Tactical Command" type="success">
+    <b>The Tactical Leap:</b> Players shift from reactive play to reading the game 2–3 steps ahead, scanning, mastering spatial awareness, and organizing the backline like field generals.
+  </TakeawayBox>
 
-### Dual Developmental Shifts
+  <TakeawayBox title="Cognitive Expansion" type="info">
+    <b>Full-Game Understanding:</b> Keepers grasp the bigger picture, anticipate space and transitions rather than merely reacting, and solve problems faster in the flow of 11v11 play.
+  </TakeawayBox>
 
-```mermaid {theme: 'seriph', scale: 0.65}
-flowchart TD
+  <TakeawayBox title="Psychological Growth" type="important">
+    <b>Building Resilience:</b> An error now often leads straight to a goal. Scrutiny is part of the role, so setbacks are framed as learning steps, not defining moments.
+  </TakeawayBox>
 
-    subgraph Physical["Physical Realm"]
-        direction TB
-        A1["Rapid Growth Spurt"]
-        A2["Joint Strain<br/>Coordination Shift"]
-        A3["Strict Load<br/>Management Needed"]
-
-        A1 --> A2 --> A3
-    end
-
-    subgraph Tactical["Cognitive & Tactical Realm"]
-        direction TB
-        B1["11v11 Spatial<br/>Awareness"]
-        B2["Pre-Reception<br/>Field Scanning"]
-        B3["Organizing Backline<br/>& Command"]
-
-        B1 --> B2 --> B3
-    end
-```
+</div>
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Ages 12–14 | Active Across Every Phase
 ---
 
+::title::
+
 # IGCC Standards: Full Build-Up Integration
+
+::default::
 
 In accordance with **International Goalkeepers Conference (IGCC)** guidelines, goalkeepers are never treated as static shooting targets. They act as core playmakers running the game across every phase.
 
@@ -66,7 +60,7 @@ In accordance with **International Goalkeepers Conference (IGCC)** guidelines, g
 </TakeawayBox>
 
 <TakeawayBox title="Decision-Making Under Pressure" type="info">
-  <b>Reading the Press:</b> Goalkeepers solve real-time tactical puzzles—deciding whether to play short through crisp passes or bypass a high press with pinpoint long distribution.
+  <b>Reading the Press:</b> Goalkeepers solve real-time tactical puzzles, deciding whether to play short through crisp passes or bypass a high press with pinpoint long distribution.
 </TakeawayBox>
 
 <TakeawayBox title="Recycling Possession" type="success">
@@ -77,7 +71,7 @@ In accordance with **International Goalkeepers Conference (IGCC)** guidelines, g
 
 ### Build-Up Phase Decision Tree
 
-```mermaid {theme: 'seriph', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
     A[Team In Possession] --> B{Opponent Press Pattern}
     
@@ -92,11 +86,15 @@ flowchart TD
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Ages 12–14 | Coaching Approach & Methodology
 ---
 
+::title::
+
 # Advanced IGCC Coaching Methodology
+
+::default::
 
 At this advanced specialization stage, coaching aligns with guidelines set by the **International Goalkeepers Conference (IGCC)** challenging goalkeepers with high-intensity, constraint-based sessions that push them past their comfort zone.
 
@@ -118,39 +116,36 @@ At this advanced specialization stage, coaching aligns with guidelines set by th
 
 ### Advanced Reaction & Recovery Loop
 
-```mermaid {theme: 'seriph', scale: 0.85}
-stateDiagram-v2
-    direction TB
-
-    state "Dynamic Responsive Stance" as DynamicStance
-    state "Read Shot Trajectory" as ReadShot
-    state "Deflection Management" as HandleDeflection
-    state "Explosive Second-Shot Recovery" as Recovery
-
-    [*] --> DynamicStance
-    DynamicStance --> ReadShot: High-Velocity Reaction
-    ReadShot --> HandleDeflection: Screen / Deflection
-    HandleDeflection --> Recovery: Instant Reset to Feet
+```mermaid {theme: 'base', scale: 0.6}
+flowchart TD
+    DynamicStance[Dynamic Responsive Stance]
+    DynamicStance -->|High-Velocity Reaction| ReadShot[Read Shot Trajectory]
+    ReadShot -->|Screen or Deflection| HandleDeflection[Deflection Management]
+    HandleDeflection -->|Instant Reset to Feet| Recovery[Explosive Second-Shot Recovery]
     Recovery --> DynamicStance
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Ages 12–14 | Power Diving & Shot-Stopping
 ---
 
+::title::
+
 # Power Diving & Shot-Stopping at the Next Level
 
-At 12–14 the keeper can finally train full flight. Physical maturity unlocks airborne saves, controlled parrying, and contact actions that were unsafe only a year ago.
+::default::
+
+At 12–14 the keeper can finally train full flight. Physical maturity enables airborne saves, controlled parrying, and contact actions that were unsafe only a year ago.
 
 ::left::
 
 <TakeawayBox title="Extension / Flying Dives" type="important">
-  <b>Full Flight:</b> Drive off the near leg, extend fully to reach high and wide shots. Land sequentially on the lateral leg, hip, and lat—never on elbows or stomach.
+  <b>Full Flight:</b> Drive off the near leg, extend fully to reach high and wide shots. Land sequentially on the lateral leg, hip, and lat, never on elbows or stomach.
 </TakeawayBox>
 
 <TakeawayBox title="Parrying to Safe Zones" type="success">
-  <b>Redirect, Don't Fumble:</b> When a shot has too much pace to hold, palm it up and away from danger—high over the bar or wide, never back into the attacking channel.
+  <b>Redirect, Don't Fumble:</b> When a shot has too much pace to hold, palm it up and away from danger, high over the bar or wide, never back into the attacking channel.
 </TakeawayBox>
 
 <TakeawayBox title="Sliding Smother & Punching" type="info">
@@ -161,33 +156,35 @@ At 12–14 the keeper can finally train full flight. Physical maturity unlocks a
 
 ### Power Save Decision
 
-```mermaid {theme: 'seriph'}
-stateDiagram-v2
-    direction TB
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    Shot[Shot Struck]
+    Catch[Catchable]
+    Parry[Too Fast / Wide]
+    Dive[Reaching Apex]
+    Smother[Loose Ball]
+    Control[Control and Restart]
 
-    state "Shot Struck" as Shot
-    state "Catchable" as Catch
-    state "Too Fast / Wide" as Parry
-    state "Reaching Apex" as Dive
-    state "Loose Ball" as Smother
-
-    Shot --> Catch: Clean hold
-    Shot --> Parry: High velocity / crowded
-    Shot --> Dive: Beyond reach
-    Shot --> Smother: At feet
-    Catch --> Secure
-    Parry --> Secure
-    Dive --> Secure
-    Smother --> Secure
-    state "Control & Restart" as Secure
+    Shot -->|Clean hold| Catch
+    Shot -->|High velocity / crowded| Parry
+    Shot -->|Beyond reach| Dive
+    Shot -->|At feet| Smother
+    Catch --> Control
+    Parry --> Control
+    Dive --> Control
+    Smother --> Control
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Ages 12–14 | Sweeper-Keeper & Defensive Command
 ---
 
+::title::
+
 # The Sweeper-Keeper & Full Backline Command
+
+::default::
 
 The modern 12–14 keeper is a field organizer who reads danger early, supports the high line, and sweeps confidently behind it.
 
@@ -198,7 +195,7 @@ The modern 12–14 keeper is a field organizer who reads danger early, supports 
 </TakeawayBox>
 
 <TakeawayBox title="Directing the Block" type="important">
-  <b>Command the Shape:</b> Coordinate the 11v11 defensive block—managing wall placement, marking stacks, and communicating the line as the field general of the backline.
+  <b>Command the Shape:</b> Coordinate the 11v11 defensive block, managing wall placement, marking stacks, and communicating the line as the field general of the backline.
 </TakeawayBox>
 
 <TakeawayBox title="Command Early & Loud" type="success">
@@ -209,27 +206,29 @@ The modern 12–14 keeper is a field organizer who reads danger early, supports 
 
 ### Sweeper-Keeper Flow
 
-```mermaid {theme: 'seriph'}
-stateDiagram-v2
-    direction TB
-
-    state "High Line Behind Defense" as High
-    state "Read the Run" as Read
-    state "Within Reach" as Approach
-    state "Sweep & Clear" as Sweep
+```mermaid {theme: 'base', scale: 0.6}
+flowchart TD
+    High[High Line Behind Defense]
+    Read[Read the Run]
+    Approach[Within Reach]
+    Sweep[Sweep and Clear]
 
     High --> Read
-    Read --> Approach: Ball played behind
-    Approach --> Sweep: Arrive first
-    Sweep --> High: Track back & reset
+    Read -->|Ball played behind| Approach
+    Approach -->|Arrive first| Sweep
+    Sweep -->|Track back and reset| High
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Ages 12–14 | Pressure & Resilience
 ---
 
+::title::
+
 # Pressure, Scrutiny & The Specialized Pathway
+
+::default::
 
 In 11v11 soccer, full-time specialization places an intense spotlight on the goalkeeper. When a goalkeeper makes an error, it directly leads to a goal, creating unique psychological demands.
 
@@ -240,14 +239,14 @@ In 11v11 soccer, full-time specialization places an intense spotlight on the goa
 </TakeawayBox>
 
 <TakeawayBox title="Raising Expectations" type="success">
-  <b>High Standards Drive Growth:</b> Youth athletes rise to the standards set for them. Treat them as elite problem solvers, demand sharp communication, and watch their capabilities expand exponentially.
+  <b>High Standards Drive Growth:</b> Youth athletes rise to the standards set for them. Treat them as elite problem solvers, demand sharp communication, and give their capabilities room to expand.
 </TakeawayBox>
 
 ::right::
 
 ### Resilience & Mindset Loop
 
-```mermaid {theme: 'seriph', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
     A[11v11 Match Pressure] --> B[Match Scrutiny / Error]
     B --> C{Coaching Mindset}

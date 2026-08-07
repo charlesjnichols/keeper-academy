@@ -1,16 +1,22 @@
 ---
+title: Expectations Matrix | Youth Goalkeeper Benchmarks
 layout: section
 ---
 
-# Expectations Matrix 
-## Youth Goalkeeper Benchmarks (Ages 6–14)
+# Expectations Matrix
+
+Youth Goalkeeper Benchmarks (Ages 6–14)
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Expectations Matrix | Catches & Diving Mechanics
 ---
 
+::title::
+
 # Technical Progression: Catches & Diving
+
+::default::
 
 Skill benchmarks prioritize safe joint impact and hand shape development before advancing to high-velocity diving mechanics.
 
@@ -46,11 +52,15 @@ Skill benchmarks prioritize safe joint impact and hand shape development before 
 </TakeawayBox>
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Expectations Matrix | 1v1, Aerial & Distribution
 ---
 
+::title::
+
 # Tactical Actions: 1v1, Aerial & Distribution
+
+::default::
 
 Distribution and box control progress from simple rolls and short passes to complex 1v1 block shapes and full-field playmaking.
 
@@ -88,11 +98,15 @@ Distribution and box control progress from simple rolls and short passes to comp
 </TakeawayBox>
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Expectations Matrix | Tactical & Communication
 ---
 
+::title::
+
 # Game Intelligence: Tactical & Communication
+
+::default::
 
 Goalkeepers evolve from vocal starters using simple single-word calls into field generals who command the entire defensive shape.
 

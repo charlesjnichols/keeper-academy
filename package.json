@@ -2,12 +2,13 @@
   "name": "keeper-academy-slides",
   "private": true,
   "scripts": {
-    "dev": "slidev --port 3030",
+    "dev": "slidev --force --port 3030",
     "build": "slidev build",
-    "preview": "slidev preview --port 3030"
+    "preview": "slidev preview --force --port 3030"
   },
   "dependencies": {
     "@slidev/cli": "latest",
-    "@slidev/theme-seriph": "latest"
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-neversink": "^0.4.1"
   }
 }

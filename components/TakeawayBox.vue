@@ -1,10 +1,10 @@
 <template>
-  <div :class="['p-4 rounded-lg border-l-4 my-4 shadow-sm', typeClasses]">
+  <div :class="['p-4 rounded-lg border-l-4 my-4 shadow-sm backdrop-blur-sm', typeClasses]">
     <div class="flex items-center font-bold mb-2 text-lg">
       <span class="mr-2">{{ icon }}</span>
       {{ title }}
     </div>
-    <div class="text-sm leading-relaxed">
+    <div class="text-sm leading-relaxed opacity-90">
       <slot />
     </div>
   </div>
@@ -19,12 +19,25 @@ const props = defineProps({
 })
 
 const typeMap = {
-  info: { classes: 'bg-blue-50 border-blue-500 text-blue-900', icon: '💡' },
-  warning: { classes: 'bg-yellow-50 border-yellow-500 text-yellow-900', icon: '⚠️' },
-  success: { classes: 'bg-green-50 border-green-500 text-green-900', icon: '🎯' },
-  important: { classes: 'bg-red-50 border-red-500 text-red-900', icon: '📌' }
+  info: { 
+    classes: 'bg-blue-500/10 border-blue-500 text-blue-600 dark:text-blue-300', 
+    icon: '💡' 
+  },
+  warning: { 
+    classes: 'bg-amber-500/10 border-amber-500 text-amber-700 dark:text-amber-300', 
+    icon: '⚠️' 
+  },
+  success: { 
+    classes: 'bg-emerald-500/10 border-emerald-500 text-emerald-700 dark:text-emerald-300', 
+    icon: '🎯' 
+  },
+  important: { 
+    classes: 'bg-rose-500/10 border-rose-500 text-rose-700 dark:text-rose-300', 
+    icon: '📌' 
+  }
 }
 
-const typeClasses = computed(() => typeMap[props.type].classes)
-const icon = computed(() => typeMap[props.type].icon)
+const currentType = computed(() => typeMap[props.type] || typeMap.info)
+const typeClasses = computed(() => currentType.value.classes)
+const icon = computed(() => currentType.value.icon)
 </script>

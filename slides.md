@@ -1,20 +1,25 @@
 ---
-theme: seriph
-background: https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1920&q=80
-class: text-center
-highlighter: shiki
-lineNumbers: true
+# Presentation Metadata
+title: The Keeper Blueprint - Youth Goalkeeper Coaching
+layout: cover
+#background: https://images.unsplash.com/photo-1508098682722-e99c43a406b2?auto=format&fit=crop&w=1920&q=80
 info: |
   # The Keeper Blueprint Courseware
-  MDX-based presentations for youth soccer goalkeeper coaches.
+  MDX-based course-ware for youth soccer goalkeeper coaches.
+
+# Canvas & Appearance
+theme: neversink
+colorSchema: auto
+aspectRatio: '16/9'
+canvasWidth: 1080
+defaults:
+  slide_info: false
+
+# Controls & UI Behavior
+presenter: false
+selectable: false
 drawings:
   enabled: false
-presenter: false
-browserExporter: dev
-selectable: false
-contextMenu: true
-layout: section
-title: The Keeper Blueprint - Youth Goalkeeper Coaching
 ---
 
 # The Keeper Blueprint
