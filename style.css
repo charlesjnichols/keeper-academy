@@ -15,3 +15,33 @@
         font-family: sans-serif;
     }
 }
+
+#app,
+.slidev-layout {
+    touch-action: manipulation !important;
+}
+
+/* Landscape mobile / short viewports: the 19:9 slide gets scaled down hard,
+   so bump up typography and spacing to keep text legible. */
+@media screen and (orientation: landscape) and (max-height: 520px) {
+    :root {
+        font-size: 20px;
+    }
+
+    .slidev-layout h1 {
+        font-size: 2.6em !important;
+    }
+
+    .slidev-layout h2 {
+        font-size: 2em !important;
+    }
+
+    .slidev-layout h3 {
+        font-size: 1.5em !important;
+    }
+
+    .slidev-layout p,
+    .slidev-layout li {
+        font-size: 1.15em !important;
+    }
+}
