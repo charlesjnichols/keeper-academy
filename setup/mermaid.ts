@@ -27,12 +27,7 @@ export default defineMermaidSetup(() => {
       tertiaryColor: '#0f172a',
       edgeLabelBackground: '#1e293b',
 
-      fontSize: '16px',
+      fontSize: '26px',
     },
-    themeCSS: `
-      @media screen and (orientation: landscape) and (max-height: 520px) {
-        svg, .nodeLabel, .edgeLabel { font-size: 26px !important; }
-      }
-    `,
   }
 })
