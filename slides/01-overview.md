@@ -5,7 +5,7 @@ title: Course Dashboard
 
 # Goalkeeper Development Curriculum
 
-Welcome to the Keeper Academy courseware. This manual provides a phased, long-term athletic development model for goalkeepers, aligning training objectives with physical and cognitive readiness. 
+Welcome to the The Keeper Blueprint courseware. This manual provides a phased, long-term athletic development model for goalkeepers, aligning training objectives with physical and cognitive readiness. 
 
 Select a module below to begin.
 
@@ -23,7 +23,7 @@ Select a module below to begin.
     Advanced mechanics, game reading, distribution, and tactical communication.
   </ModuleCard>
 
-  <ModuleCard icon="📚" title="Reference Library" target="6">
+  <ModuleCard icon="📚" title="Reference Library" target="19">
     Cross-age expectations matrix and core technical mechanics reference guide.
   </ModuleCard>
 
