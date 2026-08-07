@@ -1,48 +1,60 @@
 ---
+title: Ages 6–9 | Foundation & Playful Discovery
 layout: section
 ---
 
 # Ages 6–9
-## Foundation & Playful Discovery
+
+Foundation & Playful Discovery
+
 
 ---
-layout: course-page
+layout: top-title
 title: Ages 6–9 | Developmental Reality
 ---
 
+::title::
+
 # Developmental Reality
 
-At ages 6 to 9, the primary objective is ensuring players fall in love with moving their bodies and kicking a ball—not winning Saturday morning scorelines. This is the foundation every future goalkeeper is built on.
+::content::
+
+At ages 6 to 9, the primary objective is ensuring players fall in love with moving their bodies and kicking a ball, not winning Saturday morning scorelines. This is the foundation every future goalkeeper is built on.
+
+<div class="grid grid-cols-2 gap-6 mt-8">
+
+  <TakeawayBox title="Physical Development" type="info">
+    <b>Multi-Sport Agility:</b> Repeated play in running, jumping, hopping, throwing, and catching builds the athletic base every goalkeeper will later rely on. A size 3 ball with plenty of touches keeps hands and feet busy.
+  </TakeawayBox>
+
+  <TakeawayBox title="Ball Familiarity" type="success">
+    <b>Hands-On the Game:</b> Frequent touches of the ball build confidence and feel. Rolling, scooping, throwing, and chasing keep the young keeper connected to play rather than stuck between the posts.
+  </TakeawayBox>
+
+  <TakeawayBox title="Cognitive Growth" type="info">
+    <b>Egocentric to Aware:</b> Ages 6–7 chase the ball in a tight "beehive" cluster focused entirely on the ball. Ages 8–9 begin recognizing teammates, opponents, and space, the first building blocks of tactical vision.
+  </TakeawayBox>
+
+  <TakeawayBox title="Social Development" type="success">
+    <b>Play Together, Learn Together:</b> Friendship and shared fun anchor this age. Praise effort and belonging, not just the role, so the keeper stays part of the squad rather than set apart from it.
+  </TakeawayBox>
+
+</div>
+
+---
+layout: top-title-two-cols
+title: Ages 6–9 | The Young Keeper's Mind
+---
+
+::title::
+
+# The Psychological Keeper's Mind
+
+::default::
+
+Before any skill, a young keeper's mind needs to see goalkeeping as fun, not a test. A safe, playful environment lets confidence and courage grow from within.
 
 ::left::
-
-### Physical Growth
-
-<TakeawayBox title="Multi-Sport Agility" type="info">
-  <b>Gross Motor Foundations:</b> Repeated play in running, jumping, hopping, throwing, and catching builds the athletic base every goalkeeper will later rely on. A size 3 ball with plenty of touches keeps hands and feet busy.
-</TakeawayBox>
-
-```mermaid {theme: 'seriph', scale: 0.6}
-flowchart TD
-    A[Physical Growth] --> A1[Multi-Sport Play]
-    A --> A2[Ball Familiarity]
-```
-
-::center::
-
-### Cognitive Growth
-
-<TakeawayBox title="Egocentric to Aware" type="info">
-  <b>Reading Slowly Emerges:</b> Ages 6–7 chase the ball in a tight "beehive" cluster focused entirely on the ball. Ages 8–9 begin recognizing teammates, opponents, and space—the first building blocks of tactical vision.
-</TakeawayBox>
-
-```mermaid {theme: 'seriph', scale: 0.6}
-flowchart TD
-    B[Cognitive Growth] --> B1[Ball Focus]
-    B --> B2[Spatial Awareness]
-```
-
-::right::
 
 ### Psychological Growth
 
@@ -50,18 +62,37 @@ flowchart TD
   <b>Joy Over Outcome:</b> The only non-negotiable outcome is that kids leave every session wanting to come back. Pressure and results at this age actively work against long-term retention.
 </TakeawayBox>
 
-```mermaid {theme: 'seriph', scale: 0.6}
+<TakeawayBox title="Small Wins, Big Confidence" type="success">
+  <b>Mastery Through Success:</b> A child's sense of self grows from repeated small successes, not lectures. Set the bar low enough to be cleared and celebrate the attempt, so every session ends with "I can do this."
+</TakeawayBox>
+
+<TakeawayBox title="Mistakes Are Experiments" type="info">
+  <b>Reframe the Miss:</b> Drop the ball? Miss the catch? At this age a "mistake" is data, not a verdict. Normalizing failure teaches resilience and keeps a developing ego out of the way of learning.
+</TakeawayBox>
+
+::right::
+
+```mermaid {theme: 'base', scale: 0.6}
 flowchart TD
     C[Psychological Growth] --> C1[Emotional Safety]
-    C --> C2[Intrinsic Joy]
+    C1 --> C2[Small Wins Build Confidence]
+    C2 --> C3[Mistakes Reframed as Data]
+    C3 --> C4[Intrinsic Joy]
+    C4 --> A[Love of the Game]
+    C2 --> C4
+    A --> C
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Ages 6–9 | Coaching Approach & Emotional Safety
 ---
 
+::title::
+
 # Coaching Approach & Emotional Safety
+
+::default::
 
 Play is children's native language. They learn best when allowed to experiment freely, fail safely, and solve problems without adult pressure or fear of judgment.
 
@@ -83,7 +114,7 @@ Play is children's native language. They learn best when allowed to experiment f
 
 ### The Play-Based Learning Loop
 
-```mermaid {theme: 'seriph', scale: 0.7}
+```mermaid {theme: 'base', scale: 0.7}
 flowchart TD
     A[Small-Sided Games] --> B[Strip Away Complex Rules]
     B --> D[Children Experiment & Fail]
@@ -92,11 +123,15 @@ flowchart TD
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Ages 6–9 | Ground Handling Foundations
 ---
 
+::title::
+
 # Ground Handling Foundations
+
+::default::
 
 For young keepers, safe catching technique on the ground and at the waist is the entire technical curriculum. High-impact diving is deliberately deferred to protect developing joints.
 
@@ -111,14 +146,14 @@ For young keepers, safe catching technique on the ground and at the waist is the
 </TakeawayBox>
 
 <TakeawayBox title="Safe Ground Saves" type="important">
-  <b>Low Saves from Squat/Knees:</b> Teach controlled ground drops and sliding saves rather than airborne dives. Land on the side—never on elbows or knees—to protect fragile joints and build confidence.
+  <b>Low Saves from Squat/Knees:</b> Teach controlled ground drops and sliding saves rather than airborne dives. Land on the side, never on elbows or knees, to protect fragile joints and build confidence.
 </TakeawayBox>
 
 ::right::
 
 ### Catching Progression Flow
 
-```mermaid {theme: 'seriph', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
     A[Read Ball Height] --> B{Where is it?}
     B -->|Waist-to-Chest| C[Basket Catch]
@@ -129,11 +164,15 @@ flowchart TD
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Ages 6–9 | Distribution Basics
 ---
 
+::title::
+
 # Distribution & Build-Up Basics
+
+::default::
 
 Young goalkeepers are the first attacker. Simple, safe distribution builds comfort on the ball and starts teaching how keepers spark the attack.
 
@@ -148,14 +187,14 @@ Young goalkeepers are the first attacker. Simple, safe distribution builds comfo
 </TakeawayBox>
 
 <TakeawayBox title="Defer Big Kicks" type="important">
-  <b>No Punts or Sling Throws Yet:</b> Young arms and legs lack the strength for punting and overhand throws. Force-feeding them builds bad mechanics—rolls and short passes are plenty.
+  <b>No Punts or Sling Throws Yet:</b> Young arms and legs lack the strength for punting and overhand throws. Force-feeding them builds bad mechanics, rolls and short passes are plenty.
 </TakeawayBox>
 
 ::right::
 
 ### Build-Up Distribution Flow
 
-```mermaid {theme: 'seriph', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
     A[Catch or Collect] --> B[Scan for Nearby Teammate]
     B --> C[Release Quickly]
@@ -164,11 +203,15 @@ flowchart TD
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Ages 6–9 | Nurturing Keeper Interest
 ---
 
+::title::
+
 # Nurturing Goalkeeper Interest: The "Taste-Test"
+
+::default::
 
 Some kids fall in love with goal immediately. Team coaches can fan that spark into a lifelong flame without ever creating a specialist.
 
@@ -179,7 +222,7 @@ Some kids fall in love with goal immediately. Team coaches can fan that spark in
 </TakeawayBox>
 
 <TakeawayBox title="Keeper's Corner Stations" type="success">
-  <b>Fun, Social Games:</b> Run keeper-focused stations like "Keeper Wars," reaction circles, and save-and-sprint relays that celebrate effort over result.
+  <b>Fun, Social Games:</b> Run keeper-focused stations like "Keeper Wars," reaction circles, and save-and-sprint relays that celebrate effort over result. Keep them short and weave them back into the team game so the keeper never feels separated from the squad.
 </TakeawayBox>
 
 <TakeawayBox title="Reward the Attempt" type="info">
@@ -190,7 +233,7 @@ Some kids fall in love with goal immediately. Team coaches can fan that spark in
 
 ### From Interest to Engagement
 
-```mermaid {theme: 'seriph', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
     A[Child Shows Interest in Goal] --> B[Give Rotational Turns]
     B --> C[Fun Keeper Stations]
@@ -200,22 +243,26 @@ flowchart TD
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Ages 6–9 | Communication & Bravery
 ---
 
+::title::
+
 # Communication, Bravery & First Steps
 
-The earliest leadership habits and the confidence to throw a body at the ball are planted here—one simple call and one soft landing at a time.
+::default::
+
+The earliest leadership habits and the confidence to throw a body at the ball are planted here, one simple call and one soft landing at a time.
 
 ::left::
 
 <TakeawayBox title="Single-Word Calls" type="success">
-  <b>"Keeper!" & "Mine!":</b> Teach one clear, loud call when coming for the ball. Early, decisive communication is the seed of future backline command.
+  <b>"Keeper!", "Mine!" & "Leave!":</b> Teach one clear, loud call for owning the ball and a simple "leave!" that lets the defender know the keeper is taking it. These two triggers form the seed of future backline command.
 </TakeawayBox>
 
 <TakeawayBox title="Step Up With the Line" type="info">
-  <b>Follow the Defense Out:</b> Learn to move up as the team advances and recover when possession turns over—a simple habit that builds positional sense.
+  <b>Follow the Defense Out:</b> Learn to move up as the team advances and recover when possession turns over, a simple habit that builds positional sense.
 </TakeawayBox>
 
 <TakeawayBox title="Learn to Fall Before Diving" type="important">
@@ -226,7 +273,7 @@ The earliest leadership habits and the confidence to throw a body at the ball ar
 
 ### Bravery & Communication Loop
 
-```mermaid {theme: 'seriph', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
     A[Soft Ball Practice] --> B[Comfort with Falling]
     B --> C[Safe Landing Habits]
@@ -236,65 +283,93 @@ flowchart TD
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Ages 6–9 | No Early Specialization
 ---
 
+::title::
+
 # The Case Against Early Specialization
 
+::default::
+
 At ages 6 to 9, **no player should be a full-time goalkeeper**. Every child should be running around the field every game.
+
+::left::
 
 <TakeawayBox title="Burnout Fast Track" type="warning">
   <b>Boxed In:</b> Pinning a seven-year-old between the posts every week is a direct fast track to burnout. Kids need to run, chase, and score.
 </TakeawayBox>
 
-::left::
-
-<div align="center">
-
-### Practice Environment
-
-```mermaid {theme: 'seriph', scale: 0.7}
-stateDiagram-v2
-    direction TB
-
-    state "Practice Environment" as Practice {
-      state "Rotate All Players" as A
-      state "Experience Goalkeeping" as B
-      state "Build Team Empathy" as C
-
-      [*] --> A
-      A --> B
-      B --> C
-    }
-```
-</div>
+<TakeawayBox title="Right-Sized Goals & Formats" type="warning">
+  <b>Grow With the Game:</b> 4v4 and 7v7 on child-sized goals keep the keeper a real part of play. Saving only becomes a full-time job when the 9v9 and 11v11 games arrive, and the keeper arrives with it.
+</TakeawayBox>
 
 ::right::
 
-### Match Environment
+### The Rotation Promise
 
-```mermaid {theme: 'seriph', scale: 0.7}
-stateDiagram-v2
-    direction TB
+```mermaid {theme: 'base', scale: 0.7}
+flowchart TD
+    A[Runs, Chases, Scores] --> B[Takes Turns in Goal]
+    B --> C[Builds Team Empathy]
+    C --> A
 
-    state "Match Environment" as Matches {
-      state "Voluntary Selection" as A
-      state "Shared Responsibility" as B
-      state "Never Forced" as C
-
-      [*] --> A
-      A --> B
-      B --> C
-    }
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
+title: Ages 6–9 | Keeping It Rotational
+---
+
+::title::
+
+# Keep Everyone on the Field
+
+::default::
+
+The rule is simple: rotate the keeper's turn so everybody gets touches and nobody gets trapped between the posts.
+
+::left::
+
+### Practice Environment
+
+<TakeawayBox title="Rotate All Players" type="success">
+  <b>Everybody Gets a Turn:</b> Sweep keepers through the role in short, fun stations so goalkeeping stays one part of the game, not an identity.
+</TakeawayBox>
+
+```mermaid {theme: 'base', scale: 0.7}
+flowchart TD
+    A[Rotate All Players] --> B[Experience Goalkeeping]
+    B --> C[Build Team Empathy]
+    C --> A
+```
+
+::right::
+
+### Match
+
+<TakeawayBox title="Never On Forced To" type="info">
+  <b>Voluntary & Shared:</b> Goalkeeping in matches is up for grabs week to week, shared responsibility no child is ever pushed into.
+</TakeawayBox>
+
+```mermaid {theme: 'base', scale: 0.7}
+flowchart TD
+    A[Voluntary Selection] --> B[Shared Responsibility]
+    B --> C[Never Forced]
+
+```
+
+---
+layout: top-title-two-cols
 title: Ages 6–9 | The Goalie Parent
 ---
 
+::title::
+
 # The Goalie Parent: Coaching the Car Ride Home
+
+::default::
 
 At this age the scoreboard is meaningless, but the car ride home is everything. Parents need coaching too.
 
@@ -305,7 +380,7 @@ At this age the scoreboard is meaningless, but the car ride home is everything. 
 </TakeawayBox>
 
 <TakeawayBox title="Celebrate Effort Over Result" type="success">
-  <b>Reframe the Conceded Goal:</b> A goal conceded at this age is a learning moment and a chance to try again next time—not a failure to be unpacked on the drive home.
+  <b>Reframe the Conceded Goal:</b> A goal conceded at this age is a learning moment and a chance to try again next time, not a failure to be unpacked on the drive home.
 </TakeawayBox>
 
 <TakeawayBox title="Champion Multi-Sport Play" type="info">
@@ -316,7 +391,7 @@ At this age the scoreboard is meaningless, but the car ride home is everything. 
 
 ### The Support Loop
 
-```mermaid {theme: 'seriph', scale: 0.65}
+```mermaid {theme: 'base', scale: 0.65}
 flowchart TD
     A[Match Concludes] --> B[Car Ride Home]
     B --> C{Parent Approach}

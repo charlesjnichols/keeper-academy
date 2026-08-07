@@ -1,16 +1,22 @@
 ---
+title: Basics of Goalkeeping | Complete Coaching Reference Library
 layout: section
 ---
 
 # Basics of Goalkeeping
-## Complete Coaching Reference Library
+
+Complete Coaching Reference Library
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Foot Position
 ---
 
+::title::
+
 # Foot Position & Base
+
+::default::
 
 Optimizing body balance, weight distribution, and footwork mechanics for immediate lateral mobility.
 
@@ -40,11 +46,15 @@ Optimizing body balance, weight distribution, and footwork mechanics for immedia
 </TakeawayBox>
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Ready/Set Position
 ---
 
+::title::
+
 # Ready / Set Position
+
+::default::
 
 The foundational stance taken right before an opponent strikes the ball, allowing explosive reaction in any direction.
 
@@ -74,11 +84,15 @@ The foundational stance taken right before an opponent strikes the ball, allowin
 </TakeawayBox>
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Hand Position
 ---
 
+::title::
+
 # Hand Position & Shape
+
+::default::
 
 The mechanical foundation for securing shots, absorbing ball speed, and preventing soft rebounds.
 
@@ -108,11 +122,15 @@ The mechanical foundation for securing shots, absorbing ball speed, and preventi
 </TakeawayBox>
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Contour Catch (W-Catch)
 ---
 
+::title::
+
 # Contour Catch (W-Catch)
+
+::default::
 
 The primary hand shape used for catching shots arriving between chest and head height.
 
@@ -142,11 +160,15 @@ The primary hand shape used for catching shots arriving between chest and head h
 </TakeawayBox>
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Side Contour Catch
 ---
 
+::title::
+
 # Side Contour Catch
+
+::default::
 
 Used for mid-height shots (waist to chest) that are driven slightly wide of the body, requiring lateral extension without a full dive.
 
@@ -176,11 +198,15 @@ Used for mid-height shots (waist to chest) that are driven slightly wide of the 
 </TakeawayBox>
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | High Contour Catch
 ---
 
+::title::
+
 # High Contour Catch
+
+::default::
 
 The technique used to secure balls arriving above head height, such as crosses, corners, or high looping shots, at the maximum point of extension.
 
@@ -204,17 +230,21 @@ The technique used to secure balls arriving above head height, such as crosses, 
   <b>Common Mistakes to Correct:</b>
   <ul>
     <li><b>Catching on the Way Down:</b> Waiting for the ball to drop allows attackers to win the header. Force keepers to attack the ball at the highest point.</li>
-    <li><b>Bent Elbows at Contact:</b> Loses crucial inches of reach. Arms must be fully extended straight up upon catching.</li>
+    <li><b>Bent Elbows at Contact:</b> Loses reach. Arms must be fully extended straight up upon catching.</li>
     <li><b>"Clapping" the Ball:</b> Trying to catch by slapping the sides of the ball causes it to slip through. Reinforce getting hands <i>behind</i> the ball.</li>
   </ul>
 </TakeawayBox>
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Ground Handling (Scoop & Basket)
 ---
 
+::title::
+
 # Ground Handling: Scoop & Basket Catches
+
+::default::
 
 Securing rolling ground balls and waist-height shots safely using body-barrier techniques.
 
@@ -235,11 +265,15 @@ Securing rolling ground balls and waist-height shots safely using body-barrier t
 </TakeawayBox>
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Ball Security
 ---
 
+::title::
+
 # Ball Security & Protection
+
+::default::
 
 Safely cradling and shielding the ball post-catch to eliminate second-chance rebounds and physical dispossessions.
 
@@ -269,11 +303,15 @@ Safely cradling and shielding the ball post-catch to eliminate second-chance reb
 </TakeawayBox>
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Low / Collapse Dives
 ---
 
+::title::
+
 # Low / Collapse Dives
+
+::default::
 
 A controlled lateral drop save to reach low ground shots without leaving the turf in an airborne jump.
 
@@ -286,31 +324,30 @@ A controlled lateral drop save to reach low ground shots without leaving the tur
     <li>Step diagonally toward the ball line with the near foot.</li>
     <li>Collapse the near knee and hip to drop the lower body quickly.</li>
     <li>Lead with both hands behind the ball trajectory.</li>
-    <li>Land on outer thigh, hip, and upper torso—never on elbows or knees.</li>
+    <li>Land on outer thigh, hip, and upper torso, never on elbows or knees.</li>
   </ol><br/>
   <b>Verbal Cues:</b> <i>"Step, collapse, slide"</i> | <i>"Hands lead the way"</i>
 </TakeawayBox>
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD 
-    %% Top to Bottom Flow for Low / Collapse Dive
-    
-    subgraph Dive ["Low / Collapse Dive Flow"]
-        direction TB
-        A["Lead Step"] --> B["Collapse Leg"]
-        B --> C["Extend Hands"]
-        C --> D["Side Landing"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Lead Step"] --> B["Collapse Leg"]
+    B --> C["Extend Hands"]
+    C --> D["Side Landing"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Extension Dive
 ---
 
+::title::
+
 # Extension Dive
+
+::default::
 
 Explosive lateral power push to reach mid-height and wide shots beyond simple collapse-dive range.
 
@@ -323,32 +360,33 @@ Explosive lateral power push to reach mid-height and wide shots beyond simple co
     <li>Step diagonally toward the ball trajectory with the near foot.</li>
     <li>Drive forcefully off the near leg, extending hip, knee, and ankle.</li>
     <li>Extend both hands together along the ball flight path.</li>
-    <li>Absorb landing sequentially across lateral leg, hip, and lat muscle—never on elbows or stomach.</li>
+    <li>Absorb landing sequentially across lateral leg, hip, and lat muscle, never on elbows or stomach.</li>
   </ol><br/>
   <b>Verbal Cues:</b> <i>"Power step"</i> | <i>"Drive the hip"</i> | <i>"Land on your side"</i>
 </TakeawayBox>
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph Dive ["Extension Dive Execution Flow"]
-        direction TB
-        A["Diagonal Power Step"] --> B["Drive & Push Off Near Leg"]
-        B --> C["Extend Hands Along Flight Line"]
-        C --> D["Airborne Flight & Intercept"]
-        D --> E["Sequential Side Landing (Leg -> Hip -> Torso)"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Diagonal Power Step"] --> B["Drive & Push Off Near Leg"]
+    B --> C["Extend Hands Along Flight Line"]
+    C --> D["Airborne Flight & Intercept"]
+    D --> E["Sequential Side Landing (Leg -> Hip -> Torso)"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | High Dive
 ---
 
+::title::
+
 # High Dive (Upper-Corner Saves)
 
-Explosive vertical and diagonal airborne launch designed to parry or catch upper-90 shots.
+::default::
+
+Explosive vertical and diagonal airborne launch designed to parry or catch upper-corner shots.
 
 ::left::
 
@@ -366,23 +404,24 @@ Explosive vertical and diagonal airborne launch designed to parry or catch upper
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph HighDive ["High Dive Execution Flow"]
-        direction TB
-        A["<b>1. Adjustment Footwork</b><br/>Position under ball path"] --> B["<b>2. Takeoff</b><br/>Drive off jumping leg & lift opposite knee"]
-        B --> C["<b>3. Extension</b><br/>Reach with top hand or both hands"]
-        C --> D["<b>4. Save Execution</b><br/>Parry over bar or secure ball"]
-        D --> E["<b>5. Landing</b><br/>Controlled side descent & cushion"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["<b>1. Adjustment Footwork</b><br/>Position under ball path"] --> B["<b>2. Takeoff</b><br/>Drive off jumping leg & lift opposite knee"]
+    B --> C["<b>3. Extension</b><br/>Reach with top hand or both hands"]
+    C --> D["<b>4. Save Execution</b><br/>Parry over bar or secure ball"]
+    D --> E["<b>5. Landing</b><br/>Controlled side descent & cushion"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Parrying to Safe Zones
 ---
 
+::title::
+
 # Parrying to Safe Zones
+
+::default::
 
 Redirecting high-velocity or hard-to-hold shots with the palms to a safe area, rather than attempting an unsafe catch or presenting a rebound to attackers.
 
@@ -402,22 +441,23 @@ Redirecting high-velocity or hard-to-hold shots with the palms to a safe area, r
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph Parry ["Parrying to Safe Zones Flow"]
-        direction TB
-        A["Decide: too fast to hold"] --> B["Extend Open Palms Firm"]
-        B --> C["Redirect Up / Wide"]
-        C --> D["Stick to Safe Zone"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Decide: too fast to hold"] --> B["Extend Open Palms Firm"]
+    B --> C["Redirect Up / Wide"]
+    C --> D["Stick to Safe Zone"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Cross Collection
 ---
 
+::title::
+
 # High Cross Collection
+
+::default::
 
 Dominating the penalty area by claiming aerial deliveries at the highest reachable point.
 
@@ -437,23 +477,24 @@ Dominating the penalty area by claiming aerial deliveries at the highest reachab
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph Crosses ["Cross Collection Execution Flow"]
-        direction TB
-        A["Assess Flight Path & Decision"] --> B["Decisive Loud Call ('KEEPER!')"]
-        B --> C["Drive Off Foot with Defensive Knee Up"]
-        C --> D["Catch Ball at Peak Elevation (W-Shape)"]
-        D --> E["Land Balanced & Secure to Chest Lock"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Assess Flight Path & Decision"] --> B["Decisive Loud Call ('KEEPER!')"]
+    B --> C["Drive Off Foot with Defensive Knee Up"]
+    C --> D["Catch Ball at Peak Elevation (W-Shape)"]
+    D --> E["Land Balanced & Secure to Chest Lock"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Punching & High Clearance
 ---
 
+::title::
+
 # Punching High Balls & Aerial Clearance
+
+::default::
 
 Aggressively clearing lofted balls, crosses, and aerial duels by punching the ball out rather than claiming it, used when a catch is contested or risky.
 
@@ -466,30 +507,31 @@ Aggressively clearing lofted balls, crosses, and aerial duels by punching the ba
     <li>Read the flight, pace, and surrounding traffic before committing.</li>
     <li>Drive off one foot, extending the punching arm to meet the ball at its apex.</li>
     <li>Strike the underside-center of the ball with clenched fist pads.</li>
-    <li>Punch high and distant, toward the flanks—away from the danger area in front of goal.</li>
+    <li>Punch high and distant, toward the flanks, away from the danger area in front of goal.</li>
   </ol><br/>
   <b>Verbal Cues:</b> <i>"Punch it away"</i> | <i>"Fists together"</i> | <i>"Clear to the flank"</i>
 </TakeawayBox>
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph Punch ["Punching / Aerial Clearance Flow"]
-        direction TB
-        A["Read Flight & Traffic"] --> B["Loud 'KEEPER!' Call"]
-        B --> C["Drive Off One Foot, Knee Up"]
-        C --> D["Fist-Fit Contact on Underside"]
-        D --> E["Clear High & Wide to Flank"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Read Flight & Traffic"] --> B["Loud 'KEEPER!' Call"]
+    B --> C["Drive Off One Foot, Knee Up"]
+    C --> D["Fist-Fit Contact on Underside"]
+    D --> E["Clear High & Wide to Flank"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Breakaways (1v1)
 ---
 
+::title::
+
 # 1v1 Breakaway Management
+
+::default::
 
 Closing down space, setting position, and executing block or spread saves against lone attackers.
 
@@ -502,30 +544,31 @@ Closing down space, setting position, and executing block or spread saves agains
     <li>Close distance rapidly while attacker's head is down or touch is heavy.</li>
     <li>Shorten stride and SET balanced as attacker prepares to strike.</li>
     <li>Drop into K-block or star spread to maximize barrier coverage.</li>
-    <li>Maintain patience—stay on feet as long as possible to force attacker's decision.</li>
+    <li>Maintain patience, stay on feet as long as possible to force attacker's decision.</li>
   </ol><br/>
-  <b>Verbal Cues:</b> <i>"Attack heavy touches"</i> | <i>"Set on the strike"</i> | <i>"Make yourself big"</i>
+  <b>Verbal Cues:</b> <i>"Attack heavy touches"</i> | <i>"Set on the strike"</i> | <i>"Stay Big"</i>
 </TakeawayBox>
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph Breakaway ["1v1 Breakaway Flow"]
-        direction TB
-        A["Recognize Breakaway & Attack Heavy Touch"] --> B["Close Distance Rapidly"]
-        B --> C["Shorten Steps & Set Stance on Strike"]
-        C --> D["Evaluate: Spread/K-Block vs. Forward Smother"]
-        D --> E["Block Shot / Secure Ball & Clear Hazard"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Recognize Breakaway & Attack Heavy Touch"] --> B["Close Distance Rapidly"]
+    B --> C["Shorten Steps & Set Stance on Strike"]
+    C --> D["Evaluate: Spread/K-Block vs. Forward Smother"]
+    D --> E["Block Shot / Secure Ball & Clear Hazard"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | K-Block
 ---
 
+::title::
+
 # K-Block (Close-Range Barrier)
+
+::default::
 
 A specialized, close-distance blocking shape used to seal off the space between the legs and maximize lower-body surface area during tight 1v1s.
 
@@ -545,23 +588,24 @@ A specialized, close-distance blocking shape used to seal off the space between 
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph KBlock ["K-Block Execution Flow"]
-        direction TB
-        A["<b>1. Close-Range Set</b><br/>Hold stance as attacker nears"] --> B["<b>2. The Strike</b><br/>React to the attacker's shooting motion"]
-        B --> C["<b>3. Lower Body Seal</b><br/>Drop trailing knee directly behind lead heel"]
-        C --> D["<b>4. Upper Body Expansion</b><br/>Keep chest tall & extend arms low/wide"]
-        D --> E["<b>5. Absorption</b><br/>Block shot & recover immediately for rebounds"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["<b>1. Close-Range Set</b><br/>Hold stance as attacker nears"] --> B["<b>2. The Strike</b><br/>React to the attacker's shooting motion"]
+    B --> C["<b>3. Lower Body Seal</b><br/>Drop trailing knee directly behind lead heel"]
+    C --> D["<b>4. Upper Body Expansion</b><br/>Keep chest tall & extend arms low/wide"]
+    D --> E["<b>5. Absorption</b><br/>Block shot & recover immediately for rebounds"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Forward Smother
 ---
 
+::title::
+
 # Forward Smother
+
+::default::
 
 Diving forward into the feet of oncoming attackers to smother loose balls and through-passes.
 
@@ -581,23 +625,24 @@ Diving forward into the feet of oncoming attackers to smother loose balls and th
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph Smother ["Forward Smother Flow"]
-        direction TB
-        A["Read Loose Ball & Sprint Forward"] --> B["Lower Center of Gravity"]
-        B --> C["Drive Hands Forward Ahead of Head"]
-        C --> D["Secure Ball & Slide on Lateral Body"]
-        D --> E["Tuck & Shield Ball to Chest Lock"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Read Loose Ball & Sprint Forward"] --> B["Lower Center of Gravity"]
+    B --> C["Drive Hands Forward Ahead of Head"]
+    C --> D["Secure Ball & Slide on Lateral Body"]
+    D --> E["Tuck & Shield Ball to Chest Lock"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Angle Play & Ball-Line
 ---
 
+::title::
+
 # Angle Play & Ball-Line Resonance
+
+::default::
 
 Positioning that keeps the goalkeeper between the ball and the goal, cutting the shooter's effective target and making the keeper's frame cover the goal.
 
@@ -616,24 +661,25 @@ Positioning that keeps the goalkeeper between the ball and the goal, cutting the
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph Angle ["Angle Play / Ball-Line Flow"]
-        direction TB
-        A["Track the Ball"] --> B["Stay on Ball-to-Goal Line"]
-        B --> C{Opponent Close?}
-        C -->|Yes| D["Step Out to Cut Angle"]
-        C -->|No| E["Hold Ready Stance"]
-        D --> F["Shrink the Target"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Track the Ball"] --> B["Stay on Ball-to-Goal Line"]
+    B --> C{Opponent Close?}
+    C -->|Yes| D["Step Out to Cut Angle"]
+    C -->|No| E["Hold Ready Stance"]
+    D --> F["Shrink the Target"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Sweeping & Sweeper-Keeper
 ---
 
+::title::
+
 # Sweeping & Sweeper-Keeper Depth
+
+::default::
 
 Acting as a second defender behind the line to read and intercept through-balls, protecting the space a high defensive line leaves behind it.
 
@@ -651,23 +697,26 @@ Acting as a second defender behind the line to read and intercept through-balls,
   <b>Verbal Cues:</b> <i>"Read it early"</i> | <i>"Beat the attacker"</i> | <i>"Sweep and recover"</i>
 </TakeawayBox>
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph Sweep ["Sweeper-Keeper Flow"]
-        direction TB
-        A["Hold Depth Behind the Line"] --> B["Read the Long Pass"]
-        B --> C["Spring Out Before Attackers"]
-        C --> D["Clear Low & Fast"]
-        D --> E["Recover to Goal"]
-    end
+::right::
+
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Hold Depth Behind the Line"] --> B["Read the Long Pass"]
+    B --> C["Spring Out Before Attackers"]
+    C --> D["Clear Low & Fast"]
+    D --> E["Recover to Goal"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Bowling Distribution
 ---
 
+::title::
+
 # Underhand Roll / Bowling Distribution
+
+::default::
 
 Precision low-trajectory rolling pass to initiate short build-up play to nearby defenders.
 
@@ -687,23 +736,24 @@ Precision low-trajectory rolling pass to initiate short build-up play to nearby 
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph Bowling ["Bowling Distribution Flow"]
-        direction TB
-        A["Scan Options & Select Target"] --> B["Step Forward with Opposite Foot"]
-        B --> C["Pendulum Backswing & Lower Body"]
-        C --> D["Smooth Release at Turf Level"]
-        D --> E["Follow Through Arm Towards Teammate"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Scan Options & Select Target"] --> B["Step Forward with Opposite Foot"]
+    B --> C["Pendulum Backswing & Lower Body"]
+    C --> D["Smooth Release at Turf Level"]
+    D --> E["Follow Through Arm Towards Teammate"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Overhand Throw
 ---
 
+::title::
+
 # Overhand Sling Throw
+
+::default::
 
 Powerful medium-to-long distance distribution to bypass pressing attackers and spark counter-attacks.
 
@@ -723,23 +773,24 @@ Powerful medium-to-long distance distribution to bypass pressing attackers and s
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph Throw ["Overhand Throw Execution Flow"]
-        direction TB
-        A["Cup Ball & Turn Shoulder to Target"] --> B["Drive Lead Foot Forward & Wind Back"]
-        B --> C["Transfer Weight & Uncoil Hips/Core"]
-        C --> D["Overhand Whip & Wrist Snap Release"]
-        D --> E["Driven Ball Flight Direct to Target Feet"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Cup Ball & Turn Shoulder to Target"] --> B["Drive Lead Foot Forward & Wind Back"]
+    B --> C["Transfer Weight & Uncoil Hips/Core"]
+    C --> D["Overhand Whip & Wrist Snap Release"]
+    D --> E["Driven Ball Flight Direct to Target Feet"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Out-of-Hands Punt
 ---
 
+::title::
+
 # Traditional High Punt
+
+::default::
 
 High-clearing kicking restart out of hands to achieve maximum distance upfield into opponent half.
 
@@ -759,23 +810,24 @@ High-clearing kicking restart out of hands to achieve maximum distance upfield i
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph Punt ["Punt Execution Flow"]
-        direction TB
-        A["Hold Ball Waist High & Set Plant Foot"] --> B["Drop Ball Straight Down (No Toss)"]
-        B --> C["Swing Kicking Leg with Locked Ankle"]
-        C --> D["Contact Ball Center on Laces"]
-        D --> E["Follow Through Landing Forward"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Hold Ball Waist High & Set Plant Foot"] --> B["Drop Ball Straight Down (No Toss)"]
+    B --> C["Swing Kicking Leg with Locked Ankle"]
+    C --> D["Contact Ball Center on Laces"]
+    D --> E["Follow Through Landing Forward"]
 ```
 
 ---
-layout: course-page
+layout: top-title-two-cols
 title: Skill Breakdown | Side Volley
 ---
 
+::title::
+
 # Side Volley Distribution
+
+::default::
 
 Low-trajectory, high-velocity side-kick distribution for rapid, pinpoint counter-attacks.
 
@@ -795,13 +847,10 @@ Low-trajectory, high-velocity side-kick distribution for rapid, pinpoint counter
 
 ::right::
 
-```mermaid {theme: 'seriph', scale: 0.65}
-graph TD
-    subgraph SideVolley ["Side Volley Execution Flow"]
-        direction TB
-        A["Set Body Angle 45° to Target"] --> B["Lateral Release Ball to Kicking Side"]
-        B --> C["Horizontal Leg Sweep & Hip Rotation"]
-        C --> D["Strike Ball on Instep with Sideways Frame"]
-        D --> E["Flat Driven Trajectory Over Midfield"]
-    end
+```mermaid {theme: 'base', scale: 0.65}
+flowchart TD
+    A["Set Body Angle 45° to Target"] --> B["Lateral Release Ball to Kicking Side"]
+    B --> C["Horizontal Leg Sweep & Hip Rotation"]
+    C --> D["Strike Ball on Instep with Sideways Frame"]
+    D --> E["Flat Driven Trajectory Over Midfield"]
 ```
