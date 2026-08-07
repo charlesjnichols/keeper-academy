@@ -24,7 +24,7 @@ jobs:
         run: npm install
 
       - name: Build Slidev Presentation
-        run: npx slidev build --base /keeper-academy/
+        run: npx slidev build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
