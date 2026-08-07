@@ -1,10 +1,11 @@
 /* style.css */
 
 
-/* Landscape mobile / short viewports: the 19:9 slide gets scaled down hard,
-   so bump up typography and spacing to keep text legible. */
-:root {
-    font-size: 26px;
+/* Mobile screens (landscape phones are wide but short) */
+@media screen and (orientation: landscape) and (max-height: 520px) {
+    :root {
+        font-size: 26px;
+    }
 }
 
 #app nav.flex>div,
