@@ -10,8 +10,8 @@ info: |
 # Canvas & Appearance
 theme: neversink
 colorSchema: auto
-aspectRatio: '16/9'
-canvasWidth: 1080
+aspectRatio: '19/9'
+canvasWidth: 1600
 defaults:
   slide_info: false
 

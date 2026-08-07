@@ -9,4 +9,4 @@ title: Contact | CJ Nichols
 
 ::content::
 
-<ContactNavigator />
+<ContactNavigator :show-nav="false" />

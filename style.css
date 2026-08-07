@@ -1,0 +1,17 @@
+/* style.css */
+@media screen and (orientation: portrait) {
+    #app {
+        display: none !important;
+    }
+
+    body::before {
+        content: "Please rotate your device to landscape mode to view slides.";
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        text-align: center;
+        padding: 2rem;
+        font-family: sans-serif;
+    }
+}
