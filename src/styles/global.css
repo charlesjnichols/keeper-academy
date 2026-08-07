@@ -1,0 +1,45 @@
+/* Center Mermaid diagrams, mirroring the old Slidev centering styles */
+.mermaid,
+.mermaid svg {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Two-column split helper (replaces Slidev ::left::/::right:: slot layouts) */
+.split-cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.split-cols > :first-child {
+  grid-column: 1;
+}
+
+.split-cols > :last-child {
+  grid-column: 2;
+}
+
+@media (max-width: 720px) {
+  .split-cols {
+    grid-template-columns: 1fr;
+  }
+  .split-cols > :first-child,
+  .split-cols > :last-child {
+    grid-column: 1;
+  }
+}
+
+/* Dashboard grid used on the overview page */
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+@media (max-width: 720px) {
+  .dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+}
