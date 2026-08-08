@@ -56,16 +56,16 @@ export default defineConfig({
           autogenerate: { directory: 'ages-12-14' },
         },
         {
+          label: 'Coaches Toolbox',
+          autogenerate: { directory: 'coaches-toolbox' },
+        },
+        {
           label: 'Expectations Matrix',
           autogenerate: { directory: 'expectations-matrix' },
         },
         {
           label: 'Reference Library',
           autogenerate: { directory: 'reference-library' },
-        },
-        {
-          label: 'Coaches Toolbox',
-          autogenerate: { directory: 'coaches-toolbox' },
         },
         { label: 'Contact', link: '/contact/' },
       ],
