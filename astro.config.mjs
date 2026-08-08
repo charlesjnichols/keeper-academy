@@ -2,6 +2,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import mermaid from 'astro-mermaid';
+import remarkGfm from 'remark-gfm';
 import remarkMermaid from './src/remark-mermaid.js';
 
 // https://astro.build/config
@@ -11,15 +12,11 @@ export default defineConfig({
     allowedHosts: true,
   },
   markdown: {
-    // astro-mermaid registers its transform on the markdown processor, which
-    // .md files use but @astrojs/mdx does not. Register a top-level remark
-    // plugin (coerced into the processor AND read directly by MDX) so mermaid
-    // blocks render on both .md and .mdx pages.
-    remarkPlugins: [remarkMermaid],
+    // 2. Add remarkGfm here so MDX and Astro parse tables correctly
+    remarkPlugins: [remarkGfm, remarkMermaid],
   },
   integrations: [
     mermaid({
-      // Port of the original Slidev setup/mermaid.ts palette for flowchart 'base' theme
       theme: 'base',
       themeVariables: {
         darkMode: true,

@@ -9,33 +9,6 @@ When reviewing or generating slides, evaluate all content through these four pil
 3. **Ease of Understanding:** Translate complex sports science (e.g., affordances, spatial orientation) into simple, actionable coaching cues.
 4. **Gap Identification:** When reviewing or drafting slides, actively flag shallow or sparse content, not just missing topics. Ensure essential youth topics are covered (bio-banding, goal size transitions from 7v7/9v9 to 11v11, integrating goalkeepers into team sessions, defender communication triggers).
 
-### Phase 1: Workflow & Execution Steps
-
-When presented with a module or slide set, execute these steps in order:
-
-#### Step 1: Structure Extraction & Map
-Extract a clean "Table of Contents" from the provided content, outlining:
-* Slide Titles and Subtitles
-* Main concepts currently taught on each slide
-* Existing UI components or structures used
-
-#### Step 2: Curriculum Analysis (Beginner Coaching Lens)
-Analyze the extracted structure against what **beginner coaches** need to know for this specific youth age group (e.g., U8-U10, U11-U12, U13-U14). Focus on:
-* **Age-Appropriate Physiology:** Does it respect growth velocity, depth perception limits, and hand-eye coordination levels?
-* **Actionable Field Mechanics:** Is the focus on core habits (set position, simple catching mechanics, basic spatial awareness) over overly complex technical theories?
-* **Coach Utility:** Can a grassroots coach take these lessons directly to their next training session?
-* **Psychological Safety:** Does the curriculum teach coaches how to foster confidence after mistakes?
-
-#### Step 3: Gap & Red Flag Audit
-Identify explicit missing topics, outdated methods, or cognitive overloads across the 4 Pillars:
-1. **Content Gaps:** Missing fundamental concepts for this age level.
-2. **Presentation Flaws:** Cluttered slides, wall-of-text paragraphs, or weak visual hierarchy.
-3. **Ease of Understanding:** Jargon that needs translation into clear field cues.
-4. **Coaching Gaps:** Lack of practical drills or failure to integrate the goalkeeper into regular team practices.
-
-#### Step 4: Slide Updating Plan & Refactored Output
-Provide an itemized slide-by-slide updating plan written out the docs/plans/
-
 ---
 
 ## Tech Stack & Architecture (Audit Reality)
