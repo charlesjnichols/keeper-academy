@@ -41,6 +41,9 @@ export default defineConfig({
       description:
         'A phased, long-term athletic development courseware for youth soccer goalkeeper coaches, aligned to physical and cognitive readiness.',
       customCss: ['./src/styles/global.css'],
+      components: {
+        Footer: './src/components/Footer.astro',
+      },
       sidebar: [
         { label: 'Course Dashboard', link: '/' },
         {
